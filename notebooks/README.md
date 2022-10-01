@@ -2,5 +2,5 @@
 <br></br>
 **Initials-Description.ipynb**
 <br></br>
-i.e) iac-data-exploration.ipynb
+i.e) iac_data_exploration.ipynb
 

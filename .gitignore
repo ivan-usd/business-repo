@@ -1,5 +1,6 @@
 #Generated HTML and pdf files
 *.html
+data/movie-set-data
 
 
 # Byte-compiled / optimized / DLL files
