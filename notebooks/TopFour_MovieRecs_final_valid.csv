@@ -1,0 +1,2620 @@
+,user,new_movie,predicted_rating,movie_title
+0,270.0,4842.0,5.0,The Dogs of War
+1,270.0,4923.0,5.0,Guadalcanal Diary
+2,270.0,3116.0,4.75,Miss Julie
+3,270.0,2998.0,4.75,Dreaming of Joseph Lees
+4,664.0,4539.0,4.5,Salsa
+5,664.0,6425.0,4.5,The Sixth Man
+6,664.0,401.0,4.375,Mirage
+7,664.0,98604.0,4.36,From Up on Poppy Hill
+8,492.0,5076.0,5.0,The Adventures of Huck Finn
+9,492.0,42351.0,5.0,Threads
+10,492.0,55167.0,5.0,Tekkonkinkreet
+11,492.0,5840.0,5.0,My Mother's Castle
+12,509.0,4539.0,4.6,Salsa
+13,509.0,8915.0,4.583333333333333,Stage Beauty
+14,509.0,6425.0,4.416666666666667,The Sixth Man
+15,509.0,132952.0,4.35,Sarfarosh
+16,500.0,6425.0,5.0,The Sixth Man
+17,500.0,8133.0,4.5,The Inheritance
+18,500.0,439.0,4.0,Dangerous Game
+19,500.0,5832.0,4.0,Left Behind II: Tribulation Force
+20,201.0,7051.0,5.0,What's New Pussycat?
+21,201.0,103444.0,5.0,Woody Allen: A Documentary
+22,201.0,4067.0,5.0,Untamed Heart
+23,201.0,6027.0,5.0,Dogfight
+24,256.0,84506.0,5.0,Silent Souls
+26,256.0,65665.0,5.0,Hamlet
+27,256.0,42351.0,5.0,Threads
+28,308.0,3620.0,5.0,The Myth Of Fingerprints
+29,308.0,3790.0,5.0,Groove
+30,308.0,2837.0,5.0,Bedrooms and Hallways
+31,308.0,55732.0,5.0,Martian Child
+32,263.0,91548.0,4.5,Life in a Day
+33,263.0,957.0,4.0,The Scarlet Letter
+34,263.0,3710.0,4.0,Action Jackson
+35,263.0,4964.0,4.0,Baran
+36,388.0,4000.0,4.833333333333333,The Bounty
+37,388.0,6425.0,4.8,The Sixth Man
+38,388.0,55417.0,4.75,Irina Palm
+39,388.0,5352.0,4.714285714285714,The Big Sleep
+40,633.0,439.0,4.0,Dangerous Game
+41,633.0,842.0,4.0,Bordello of Blood
+42,633.0,80858.0,4.0,You Again
+43,633.0,79588.0,4.0,Charlie St. Cloud
+44,564.0,26151.0,4.8,Au Hasard Balthazar
+45,564.0,6027.0,4.555555555555555,Dogfight
+46,564.0,8629.0,4.555555555555555,The Book of Life
+47,564.0,8765.0,4.555555555555555,This Gun for Hire
+48,624.0,5224.0,4.722222222222222,Promises
+49,624.0,4591.0,4.722222222222222,Erik the Viking
+50,624.0,3003.0,4.722222222222222,Train of Life
+51,624.0,3047.0,4.722222222222222,Experience Preferred...But Not Essential
+52,600.0,5255.0,5.000000000000001,Sorority Boys
+53,600.0,4949.0,5.000000000000001,Invasion U.S.A.
+54,600.0,3120.0,5.000000000000001,The Distinguished Gentleman
+55,600.0,2907.0,5.000000000000001,Superstar
+56,501.0,26151.0,5.0,Au Hasard Balthazar
+57,501.0,4770.0,5.0,The Glass House
+58,501.0,4539.0,5.0,Salsa
+60,580.0,58107.0,4.75,Step Up 2: The Streets
+61,580.0,8915.0,4.285714285714286,Stage Beauty
+62,580.0,1174.0,4.1,Dead Tired
+63,580.0,559.0,4.1,"Paris, France"
+64,253.0,47148.0,4.6,Mrs Palfrey at The Claremont
+65,253.0,3780.0,4.5,Rocketship X-M
+66,253.0,53974.0,4.5,License to Wed
+67,253.0,27186.0,4.5,Kirikou and the Sorceress
+68,452.0,6425.0,4.714285714285714,The Sixth Man
+69,452.0,4300.0,4.25,Bread and Roses
+70,452.0,6027.0,4.113636363636363,Dogfight
+71,452.0,8629.0,4.113636363636363,The Book of Life
+72,194.0,957.0,5.0,The Scarlet Letter
+73,194.0,4539.0,5.0,Salsa
+74,194.0,89045.0,4.5,Rocky VI
+75,194.0,5985.0,4.5,Asoka
+76,623.0,5224.0,5.0,Promises
+77,623.0,2063.0,5.0,Seventh Heaven
+78,623.0,5179.0,5.0,Gloria
+79,623.0,4592.0,5.0,The Experts
+80,576.0,5685.0,5.0,Real Women Have Curves
+81,576.0,32025.0,5.0,Walk on Water
+82,576.0,6329.0,5.0,Manic
+83,576.0,122888.0,5.0,Ben-Hur
+84,608.0,4000.0,5.0,The Bounty
+85,608.0,72612.0,5.0,The Fly
+86,608.0,48660.0,5.0,The Elementary Particles
+87,608.0,26160.0,5.0,Asterix the Gaul
+88,277.0,6690.0,5.0,Don't Tempt Me
+89,277.0,5643.0,5.0,Powaqqatsi
+90,277.0,5632.0,5.0,Bloody Sunday
+91,277.0,1575.0,5.0,Gabbeh
+92,547.0,6425.0,4.8,The Sixth Man
+93,547.0,4539.0,4.657894736842105,Salsa
+94,547.0,55417.0,4.5,Irina Palm
+95,547.0,401.0,4.461538461538462,Mirage
+96,143.0,98126.0,5.0,Capital
+97,143.0,559.0,5.0,"Paris, France"
+98,143.0,1174.0,5.0,Dead Tired
+99,143.0,854.0,5.0,The Ballad of Narayama
+100,47.0,84.0,5.0,Last Summer in the Hamptons
+101,47.0,101962.0,5.0,Wolf Children
+102,47.0,8982.0,5.0,I Am David
+103,47.0,25911.0,5.0,The Woman in the Window
+104,481.0,5413.0,5.0,Zombie Holocaust
+105,481.0,61465.0,5.0,Bangkok Dangerous
+106,481.0,5832.0,5.0,Left Behind II: Tribulation Force
+107,481.0,1311.0,5.0,Santa with Muscles
+108,230.0,8899.0,5.0,Hardcore
+109,230.0,3845.0,5.0,...And God Created Woman
+110,230.0,6116.0,5.0,The Pirate Movie
+111,230.0,285.0,5.0,Beyond Bedlam
+112,106.0,1933.0,5.0,The Life of Emile Zola
+113,106.0,3217.0,5.0,A Star Is Born
+114,106.0,44197.0,5.0,Find Me Guilty
+115,106.0,158956.0,5.0,Kill Command
+116,660.0,69529.0,4.611111111111111,Home
+117,660.0,82931.0,4.571428571428571,The Last Circus
+118,660.0,134569.0,4.571428571428571,She's Funny That Way
+119,660.0,110645.0,4.571428571428571,Witching & Bitching
+120,58.0,25763.0,5.0,Pandora's Box
+121,58.0,2849.0,5.0,Queens Logic
+122,58.0,72612.0,5.0,The Fly
+123,58.0,130087.0,5.0,The Cobbler
+124,514.0,6425.0,5.0,The Sixth Man
+125,514.0,58107.0,5.0,Step Up 2: The Streets
+126,514.0,91548.0,5.0,Life in a Day
+127,514.0,99030.0,4.761904761904762,Wrong
+128,617.0,8915.0,5.0,Stage Beauty
+129,617.0,50804.0,5.0,Hannibal Rising
+130,617.0,4923.0,5.0,Guadalcanal Diary
+131,617.0,4842.0,5.0,The Dogs of War
+132,450.0,3879.0,5.0,The Art of War
+133,450.0,4466.0,5.0,Above the Law
+134,450.0,52545.0,5.0,Puccini for Beginners
+135,450.0,7312.0,5.0,"Follow Me, Boys!"
+136,480.0,55250.0,5.0,The Game Plan
+137,480.0,8899.0,5.0,Hardcore
+138,480.0,8751.0,5.0,Gun Crazy
+139,480.0,4300.0,4.666666666666667,Bread and Roses
+140,353.0,58107.0,4.0,Step Up 2: The Streets
+141,330.0,1733.0,5.0,Afterglow
+142,330.0,793.0,5.0,My Life and Times With Antonin Artaud
+143,330.0,4539.0,5.0,Salsa
+144,330.0,1174.0,5.0,Dead Tired
+145,384.0,3047.0,4.5,Experience Preferred...But Not Essential
+146,384.0,4208.0,4.5,Unmade Beds
+147,384.0,5427.0,4.5,Caveman
+148,384.0,5352.0,4.5,The Big Sleep
+149,149.0,39427.0,4.125,Stay
+150,149.0,108190.0,4.049962469347888,Divergent
+151,149.0,91500.0,4.012631541413812,The Hunger Games
+152,149.0,2975.0,4.0,The Best Man
+153,293.0,8918.0,5.0,Eulogy
+154,293.0,7615.0,5.0,Desert Hearts
+155,293.0,52545.0,5.0,Puccini for Beginners
+156,293.0,51094.0,5.0,Gray Matters
+157,257.0,3580.0,5.0,Up at the Villa
+158,257.0,3003.0,5.0,Train of Life
+159,257.0,1571.0,5.0,When the Cat's Away
+160,257.0,5179.0,5.0,Gloria
+161,187.0,45969.0,5.0,Career Opportunities
+162,187.0,71876.0,5.0,Amelia
+163,187.0,59834.0,5.0,100 Rifles
+164,187.0,55250.0,5.0,The Game Plan
+165,383.0,162672.0,5.0,Mohenjo Daro
+166,383.0,44731.0,5.0,Stay Alive
+167,383.0,4945.0,5.0,The Enforcer
+168,383.0,56633.0,5.0,Butterfly on a Wheel
+169,430.0,5179.0,5.0,Gloria
+170,430.0,4796.0,5.0,The Grass Is Greener
+171,430.0,2776.0,5.0,Marcello Mastroianni: I Remember
+172,430.0,2767.0,5.0,Illuminata
+173,169.0,136016.0,5.0,The Good Dinosaur
+174,169.0,159093.0,5.0,Now You See Me 2
+175,169.0,47148.0,5.0,Mrs Palfrey at The Claremont
+176,169.0,5917.0,5.0,Zoot Suit
+177,102.0,8982.0,5.0,I Am David
+178,102.0,162672.0,5.0,Mohenjo Daro
+179,102.0,162542.0,5.0,Rustom
+180,102.0,55250.0,5.0,The Game Plan
+181,537.0,8982.0,5.0,I Am David
+182,537.0,3883.0,5.0,Catfish in Black Bean Sauce
+183,537.0,32153.0,5.0,Once Upon a Forest
+184,537.0,33838.0,5.0,Rize
+185,457.0,6425.0,4.75,The Sixth Man
+186,457.0,47148.0,4.166666666666667,Mrs Palfrey at The Claremont
+187,457.0,1164.0,4.0,2 or 3 Things I Know About Her
+188,457.0,4562.0,4.0,Without a Clue
+189,574.0,2438.0,4.75,Outside Ozona
+190,574.0,6425.0,4.666666666666667,The Sixth Man
+191,574.0,4770.0,4.625,The Glass House
+192,574.0,1669.0,4.5,The Tango Lesson
+193,57.0,4605.0,5.0,How to Get Ahead in Advertising
+194,57.0,7932.0,5.0,Dark Days
+195,57.0,74624.0,5.0,Agora
+196,57.0,115174.0,5.0,Love Is Strange
+197,28.0,68269.0,5.000000000000001,The Young Victoria
+198,28.0,75341.0,5.0,Remember Me
+199,28.0,78903.0,5.0,State of Siege
+200,28.0,76111.0,5.0,About Elly
+201,380.0,58107.0,4.571428571428571,Step Up 2: The Streets
+202,380.0,8915.0,4.5,Stage Beauty
+203,380.0,8765.0,4.416666666666667,This Gun for Hire
+204,380.0,6027.0,4.416666666666667,Dogfight
+205,495.0,26326.0,5.000000000000001,The Holy Mountain
+206,495.0,162672.0,5.0,Mohenjo Daro
+207,495.0,97230.0,5.0,Side by Side
+208,495.0,6467.0,5.0,Quai des Orfèvres
+209,207.0,27700.0,5.0,Evil
+210,207.0,32469.0,5.0,We're No Angels
+211,207.0,33750.0,5.0,Innocent Voices
+212,207.0,34198.0,5.0,Russian Dolls
+213,505.0,5918.0,4.0,Alone in the Dark
+214,648.0,4466.0,5.0,Above the Law
+215,648.0,4945.0,5.0,The Enforcer
+216,648.0,3768.0,5.0,Braddock: Missing in Action III
+217,648.0,59834.0,4.5,100 Rifles
+218,72.0,264.0,4.0,L'Enfer
+219,72.0,499.0,4.0,Mr. Wonderful
+220,72.0,6425.0,4.0,The Sixth Man
+221,72.0,4593.0,4.0,Family Business
+222,173.0,74727.0,5.000000000000001,Gentlemen of Fortune
+223,173.0,50954.0,5.0,It's a Boy Girl Thing
+224,173.0,100843.0,5.0,A Coffee in Berlin
+225,173.0,103659.0,5.0,Justice League: The Flashpoint Paradox
+226,599.0,3834.0,5.0,Bronco Billy
+227,599.0,47148.0,5.0,Mrs Palfrey at The Claremont
+228,599.0,52545.0,5.0,Puccini for Beginners
+229,599.0,51094.0,5.0,Gray Matters
+230,105.0,6425.0,4.3,The Sixth Man
+231,105.0,8915.0,4.25,Stage Beauty
+232,105.0,264.0,4.1,L'Enfer
+233,105.0,401.0,4.1,Mirage
+234,417.0,1881.0,5.0,Quest for Camelot
+235,417.0,2190.0,5.0,Why Do Fools Fall In Love
+236,417.0,47148.0,5.0,Mrs Palfrey at The Claremont
+237,417.0,1878.0,5.0,Woo
+238,54.0,7340.0,5.0,Just One of the Guys
+239,54.0,56030.0,5.0,Darfur Now
+240,54.0,84506.0,5.0,Silent Souls
+241,54.0,251.0,5.0,The Hunted
+242,42.0,71876.0,5.0,Amelia
+243,42.0,26265.0,5.0,Dr. Phibes Rises Again
+244,42.0,47148.0,5.0,Mrs Palfrey at The Claremont
+245,42.0,3580.0,5.0,Up at the Villa
+246,618.0,4680.0,5.0,Vampire's Kiss
+247,618.0,939.0,5.0,The Reluctant Debutante
+248,618.0,5224.0,5.0,Promises
+249,618.0,117851.0,5.0,Penguins of Madagascar
+250,82.0,48501.0,5.0,G.O.R.A.
+251,82.0,77414.0,5.0,The Last Song
+252,82.0,81054.0,5.0,Love Is Colder Than Death
+253,82.0,80860.0,5.0,Life As We Know It
+254,405.0,6425.0,5.0,The Sixth Man
+255,405.0,8133.0,5.0,The Inheritance
+257,405.0,98615.0,4.833333333333333,Burn Up!
+258,382.0,5832.0,5.0,Left Behind II: Tribulation Force
+259,382.0,4753.0,5.0,Vamp
+260,382.0,5864.0,5.0,"Tarzan, the Ape Man"
+261,382.0,32153.0,5.0,Once Upon a Forest
+262,165.0,1878.0,4.166666666666667,Woo
+263,165.0,2190.0,4.166666666666667,Why Do Fools Fall In Love
+264,165.0,58107.0,4.125,Step Up 2: The Streets
+265,165.0,4300.0,4.0,Bread and Roses
+266,518.0,138204.0,5.0,7 Days in Hell
+267,518.0,134246.0,5.0,Survivor
+268,518.0,39427.0,5.0,Stay
+269,518.0,107081.0,4.8,Zatôichi on the Road
+270,239.0,162672.0,5.0,Mohenjo Daro
+271,239.0,134246.0,5.0,Survivor
+272,239.0,4539.0,5.0,Salsa
+273,239.0,80717.0,5.0,Dedication
+274,41.0,73860.0,4.75,Nowhere Boy
+275,41.0,27664.0,4.75,The Brown Bunny
+276,41.0,61465.0,4.5,Bangkok Dangerous
+277,41.0,8915.0,4.5,Stage Beauty
+278,556.0,136449.0,5.0,Ghost in the Shell 2.0
+279,556.0,6598.0,5.0,Step Into Liquid
+280,556.0,2874.0,5.0,The Pajama Game
+281,556.0,102666.0,5.0,Ivan Vasilyevich Changes His Profession
+282,268.0,134246.0,4.8,Survivor
+283,268.0,138204.0,4.8,7 Days in Hell
+284,268.0,4592.0,4.75,The Experts
+285,268.0,4208.0,4.75,Unmade Beds
+286,381.0,401.0,5.0,Mirage
+287,381.0,44197.0,5.0,Find Me Guilty
+288,381.0,3945.0,5.0,Digimon: The Movie
+289,381.0,5422.0,5.0,The Emperor's New Clothes
+290,529.0,4284.0,5.0,The King and I
+291,529.0,2190.0,4.25,Why Do Fools Fall In Love
+292,529.0,39427.0,4.25,Stay
+293,529.0,1878.0,4.25,Woo
+294,522.0,1067.0,4.5,A Damsel in Distress
+295,522.0,26151.0,4.5,Au Hasard Balthazar
+296,522.0,264.0,4.0,L'Enfer
+297,522.0,5427.0,4.0,Caveman
+298,252.0,106204.0,5.0,Pieta
+299,252.0,27722.0,5.0,Last Life in the Universe
+300,252.0,53326.0,5.0,Them
+301,252.0,79029.0,5.0,Kurt Cobain: About a Son
+302,240.0,2325.0,4.5,Orgazmo
+303,240.0,27186.0,4.5,Kirikou and the Sorceress
+304,240.0,69280.0,4.5,The Clique
+305,240.0,78836.0,4.444444444444445,Enter the Void
+306,626.0,2897.0,5.0,And the Ship Sails On
+307,626.0,39408.0,5.0,Left Behind III: World at War
+308,626.0,5076.0,5.0,The Adventures of Huck Finn
+309,626.0,638.0,5.0,Jack & Sarah
+310,177.0,107649.0,5.0,Borgman
+311,177.0,8915.0,5.0,Stage Beauty
+312,177.0,44731.0,5.0,Stay Alive
+313,177.0,118468.0,5.0,Mei and the Kittenbus
+314,254.0,3474.0,5.0,Retroactive
+315,254.0,1733.0,5.0,Afterglow
+316,254.0,3829.0,5.0,Mad About Mambo
+317,254.0,793.0,5.0,My Life and Times With Antonin Artaud
+318,75.0,39427.0,4.75,Stay
+319,75.0,8915.0,4.666666666666667,Stage Beauty
+320,75.0,32554.0,4.5,Memories
+321,75.0,50804.0,4.5,Hannibal Rising
+322,243.0,55417.0,5.0,Irina Palm
+323,243.0,149572.0,4.388888888888889,A.R.O.G.
+324,243.0,148168.0,4.388888888888889,Pek Yakında
+325,243.0,147426.0,4.388888888888889,İtirazım Var
+326,89.0,5422.0,5.0,The Emperor's New Clothes
+327,89.0,47148.0,5.0,Mrs Palfrey at The Claremont
+328,89.0,70121.0,5.0,'Neath the Arizona Skies
+329,89.0,5527.0,5.0,Possession
+330,189.0,264.0,5.0,L'Enfer
+331,189.0,1669.0,5.0,The Tango Lesson
+332,189.0,5918.0,5.0,Alone in the Dark
+333,189.0,6154.0,5.0,Deliver Us from Eva
+334,602.0,8765.0,5.0,This Gun for Hire
+335,602.0,148168.0,5.0,Pek Yakında
+336,602.0,91548.0,5.0,Life in a Day
+337,602.0,6624.0,5.0,Agent Cody Banks
+338,362.0,4000.0,5.0,The Bounty
+339,362.0,756.0,4.75,Carmen Miranda: Bananas Is My Business
+340,362.0,698.0,4.75,Delta of Venus
+341,362.0,844.0,4.75,The Story of Xinghua
+342,212.0,8915.0,4.277777777777778,Stage Beauty
+343,212.0,6425.0,4.25,The Sixth Man
+344,212.0,99030.0,4.1625,Wrong
+345,212.0,79469.0,4.1625,The Northerners
+346,262.0,55732.0,4.5,Martian Child
+347,130.0,8915.0,4.375,Stage Beauty
+348,130.0,127098.0,4.2,Louis C.K.: Live at The Comedy Store
+349,130.0,39427.0,4.166666666666667,Stay
+350,130.0,27186.0,4.125,Kirikou and the Sorceress
+351,545.0,86817.0,5.0,Something Borrowed
+352,545.0,103444.0,5.0,Woody Allen: A Documentary
+353,545.0,3934.0,5.0,Kronos
+354,545.0,7453.0,5.0,New York Minute
+355,472.0,1328.0,4.833333333333333,The Amityville Curse
+356,472.0,4539.0,4.583333333333333,Salsa
+357,472.0,5917.0,4.576923076923077,Zoot Suit
+358,472.0,44731.0,4.55,Stay Alive
+359,311.0,4284.0,4.5,The King and I
+360,311.0,101947.0,4.333333333333333,U2: From the Sky Down
+361,311.0,51094.0,4.25,Gray Matters
+362,311.0,7615.0,4.25,Desert Hearts
+363,605.0,106540.0,4.5,Delivery Man
+364,605.0,5985.0,4.4,Asoka
+365,605.0,50703.0,4.4,The Secret
+366,605.0,89045.0,4.4,Rocky VI
+367,99.0,58107.0,5.0,Step Up 2: The Streets
+368,99.0,69529.0,5.0,Home
+369,99.0,55732.0,5.0,Martian Child
+370,99.0,47148.0,5.0,Mrs Palfrey at The Claremont
+371,294.0,8982.0,4.181818181818182,I Am David
+372,294.0,111913.0,4.166666666666667,Lilting
+373,294.0,107516.0,4.136363636363637,Punk's Dead: SLC Punk 2
+374,294.0,4770.0,4.125,The Glass House
+375,30.0,6425.0,5.0,The Sixth Man
+376,30.0,7615.0,4.666666666666667,Desert Hearts
+377,30.0,51094.0,4.666666666666667,Gray Matters
+378,30.0,8918.0,4.666666666666667,Eulogy
+379,346.0,4578.0,5.0,Chances Are
+380,346.0,5969.0,5.0,My Girl 2
+381,346.0,4000.0,5.0,The Bounty
+382,346.0,4284.0,5.0,The King and I
+383,111.0,8915.0,4.5,Stage Beauty
+384,111.0,3885.0,4.5,Love & Sex
+385,111.0,26564.0,4.5,’Round Midnight
+386,111.0,3474.0,4.5,Retroactive
+387,377.0,58706.0,5.0,Under the Same Moon
+388,377.0,79029.0,5.0,Kurt Cobain: About a Son
+389,377.0,80586.0,5.0,Flipped
+390,377.0,66659.0,5.0,Madea Goes to Jail
+391,461.0,111913.0,4.5,Lilting
+392,461.0,4538.0,4.3125,Salome's Last Dance
+393,461.0,1539.0,4.3125,Twin Town
+394,461.0,6531.0,4.3125,The Advocate
+395,303.0,8133.0,4.5,The Inheritance
+396,303.0,6425.0,4.25,The Sixth Man
+397,303.0,109249.0,4.142857142857143,The Journey
+398,303.0,101962.0,4.083333333333333,Wolf Children
+399,407.0,401.0,5.0,Mirage
+400,407.0,1328.0,5.0,The Amityville Curse
+401,407.0,55732.0,5.0,Martian Child
+402,407.0,4000.0,4.833333333333333,The Bounty
+403,120.0,4284.0,4.333333333333333,The King and I
+404,120.0,2325.0,4.285714285714286,Orgazmo
+405,120.0,48660.0,4.25,The Elementary Particles
+406,120.0,44197.0,4.25,Find Me Guilty
+407,21.0,8982.0,5.0,I Am David
+408,21.0,5985.0,5.0,Asoka
+409,21.0,50703.0,5.0,The Secret
+410,21.0,89045.0,5.0,Rocky VI
+411,285.0,4284.0,5.0,The King and I
+412,285.0,26151.0,5.0,Au Hasard Balthazar
+413,285.0,84847.0,5.0,Emma
+414,285.0,58107.0,5.0,Step Up 2: The Streets
+415,51.0,77427.0,5.000000000000001,The Human Centipede (First Sequence)
+416,51.0,161944.0,5.0,The Last Brickmaker in America
+417,51.0,7374.0,5.0,Home on the Range
+418,51.0,95313.0,5.0,Jack-Jack Attack
+419,150.0,159093.0,4.318181818181818,Now You See Me 2
+420,150.0,146309.0,4.318181818181818,The Boy and the Beast
+421,150.0,136016.0,4.318181818181818,The Good Dinosaur
+422,150.0,48660.0,4.25,The Elementary Particles
+423,283.0,27186.0,4.571428571428571,Kirikou and the Sorceress
+424,283.0,111913.0,4.5,Lilting
+425,283.0,55417.0,4.5,Irina Palm
+426,283.0,6425.0,4.5,The Sixth Man
+427,510.0,7615.0,5.0,Desert Hearts
+428,510.0,8915.0,5.0,Stage Beauty
+429,510.0,8918.0,5.0,Eulogy
+430,510.0,51094.0,5.0,Gray Matters
+431,350.0,100017.0,5.0,Keep the Lights On
+432,350.0,69495.0,5.0,Breakfast with Scot
+433,350.0,130628.0,5.0,Boys
+434,350.0,6342.0,5.0,The Trip
+435,371.0,3934.0,5.0,Kronos
+436,371.0,4593.0,5.0,Family Business
+437,371.0,499.0,5.0,Mr. Wonderful
+438,371.0,4539.0,5.0,Salsa
+439,587.0,2653.0,5.0,Son of Dracula
+440,587.0,2636.0,5.0,The Mummy's Ghost
+441,587.0,2650.0,5.0,The Ghost of Frankenstein
+442,587.0,2637.0,5.0,The Mummy's Hand
+443,402.0,2438.0,5.0,Outside Ozona
+444,402.0,4593.0,5.0,Family Business
+445,402.0,499.0,5.0,Mr. Wonderful
+446,402.0,957.0,4.625,The Scarlet Letter
+447,387.0,140739.0,5.0,Eighteen
+448,387.0,137403.0,5.0,Swimming Upstream
+449,387.0,7260.0,5.0,Latter Days
+450,387.0,690.0,5.0,The Promise
+451,607.0,8133.0,4.666666666666667,The Inheritance
+452,607.0,7051.0,4.5,What's New Pussycat?
+453,607.0,26265.0,4.5,Dr. Phibes Rises Again
+454,607.0,25763.0,4.5,Pandora's Box
+455,214.0,4559.0,5.0,Vice Versa
+456,214.0,5788.0,5.0,All or Nothing
+457,214.0,5969.0,5.0,My Girl 2
+458,214.0,106540.0,5.0,Delivery Man
+459,234.0,8899.0,5.0,Hardcore
+460,234.0,58107.0,5.0,Step Up 2: The Streets
+461,234.0,8751.0,5.0,Gun Crazy
+462,234.0,755.0,5.0,Kim
+463,575.0,8915.0,5.0,Stage Beauty
+464,575.0,50804.0,4.666666666666667,Hannibal Rising
+465,575.0,1328.0,4.6,The Amityville Curse
+466,575.0,69280.0,4.5,The Clique
+467,586.0,3474.0,5.0,Retroactive
+468,586.0,3879.0,5.0,The Art of War
+469,586.0,5918.0,5.0,Alone in the Dark
+470,586.0,3829.0,5.0,Mad About Mambo
+471,161.0,439.0,5.0,Dangerous Game
+472,161.0,4527.0,5.0,A Night in the Life of Jimmy Reardon
+473,161.0,146309.0,5.0,The Boy and the Beast
+474,161.0,136016.0,5.0,The Good Dinosaur
+475,394.0,264.0,5.0,L'Enfer
+476,394.0,854.0,5.0,The Ballad of Narayama
+477,394.0,134246.0,5.0,Survivor
+478,394.0,559.0,5.0,"Paris, France"
+479,577.0,45969.0,5.0,Career Opportunities
+480,577.0,72612.0,5.0,The Fly
+481,577.0,55250.0,5.0,The Game Plan
+482,577.0,69280.0,5.0,The Clique
+483,224.0,31413.0,5.0,The White Sound
+484,224.0,110352.0,5.0,Survival Island
+485,224.0,59834.0,5.0,100 Rifles
+486,224.0,2063.0,5.0,Seventh Heaven
+487,78.0,26160.0,5.0,Asterix the Gaul
+488,78.0,55417.0,5.0,Irina Palm
+489,78.0,44197.0,5.0,Find Me Guilty
+490,78.0,55732.0,5.0,Martian Child
+491,597.0,55732.0,5.0,Martian Child
+492,597.0,4300.0,5.0,Bread and Roses
+493,597.0,111913.0,5.0,Lilting
+495,367.0,26160.0,5.0,Asterix the Gaul
+496,367.0,8133.0,5.0,The Inheritance
+497,367.0,1328.0,5.0,The Amityville Curse
+498,367.0,5527.0,5.0,Possession
+499,157.0,81054.0,4.3125,Love Is Colder Than Death
+500,157.0,7820.0,4.3125,The Virgin Spring
+501,157.0,26228.0,4.3125,A Swedish Love Story
+502,157.0,26318.0,4.3125,The Phantom of Liberty
+503,528.0,3567.0,4.5,Bossa Nova
+504,528.0,3580.0,4.5,Up at the Villa
+505,528.0,3657.0,4.5,Pandora and the Flying Dutchman
+506,528.0,1472.0,4.5,City of Industry
+507,119.0,58107.0,5.0,Step Up 2: The Streets
+508,119.0,6425.0,4.833333333333333,The Sixth Man
+509,119.0,72612.0,4.666666666666667,The Fly
+510,119.0,401.0,4.6,Mirage
+511,109.0,99912.0,5.0,Mama
+512,109.0,99470.0,5.0,The Collection
+513,109.0,69720.0,5.0,Hood of Horror
+514,109.0,151639.0,5.0,The Boy
+515,3.0,4766.0,5.0,Our Lady of the Assassins
+516,3.0,7932.0,5.0,Dark Days
+517,3.0,5685.0,5.0,Real Women Have Curves
+518,3.0,6329.0,5.0,Manic
+519,159.0,8751.0,5.0,Gun Crazy
+520,159.0,8899.0,5.0,Hardcore
+521,159.0,401.0,4.7,Mirage
+522,159.0,1571.0,4.583333333333333,When the Cat's Away
+523,385.0,162672.0,5.0,Mohenjo Daro
+524,385.0,110645.0,5.0,Witching & Bitching
+525,385.0,72294.0,5.0,A Christmas Carol
+526,385.0,3474.0,5.0,Retroactive
+527,23.0,101947.0,4.5,U2: From the Sky Down
+528,23.0,69529.0,4.416666666666667,Home
+529,23.0,4000.0,4.4,The Bounty
+530,23.0,50804.0,4.385871402739661,Hannibal Rising
+531,478.0,4347.0,5.0,Divided We Fall
+532,478.0,54.0,5.0,The Big Green
+533,478.0,3207.0,5.0,The Snows of Kilimanjaro
+534,478.0,26265.0,5.0,Dr. Phibes Rises Again
+535,571.0,61465.0,4.5,Bangkok Dangerous
+536,571.0,1444.0,4.5,Guantanamera
+537,571.0,5834.0,4.5,Fingers
+538,571.0,5864.0,4.5,"Tarzan, the Ape Man"
+539,199.0,4000.0,5.0,The Bounty
+540,199.0,4539.0,4.75,Salsa
+541,199.0,4067.0,4.666666666666667,Untamed Heart
+542,199.0,55250.0,4.5,The Game Plan
+543,176.0,5224.0,4.333333333333333,Promises
+545,176.0,4399.0,4.333333333333333,Diary of a Chambermaid
+546,176.0,4538.0,4.333333333333333,Salome's Last Dance
+547,553.0,58107.0,5.0,Step Up 2: The Streets
+548,553.0,842.0,5.0,Bordello of Blood
+549,553.0,2190.0,5.0,Why Do Fools Fall In Love
+550,553.0,1428.0,5.0,Angel Baby
+551,321.0,156025.0,5.0,Ice Age: The Great Egg-Scapade
+552,321.0,4842.0,5.0,The Dogs of War
+553,321.0,51094.0,5.0,Gray Matters
+554,321.0,50011.0,5.0,The Bothersome Man
+555,26.0,127098.0,4.75,Louis C.K.: Live at The Comedy Store
+556,26.0,499.0,4.5,Mr. Wonderful
+557,26.0,2636.0,4.5,The Mummy's Ghost
+558,26.0,4593.0,4.5,Family Business
+559,491.0,40491.0,5.0,The Match Factory Girl
+560,491.0,45172.0,5.0,23
+561,491.0,81054.0,5.0,Love Is Colder Than Death
+562,491.0,5613.0,5.0,8 Women
+563,275.0,2438.0,5.0,Outside Ozona
+564,275.0,1881.0,5.0,Quest for Camelot
+565,275.0,3657.0,5.0,Pandora and the Flying Dutchman
+566,275.0,72612.0,5.0,The Fly
+567,138.0,2767.0,4.75,Illuminata
+568,138.0,5427.0,4.75,Caveman
+569,138.0,4591.0,4.75,Erik the Viking
+570,138.0,5236.0,4.75,A Tale of Springtime
+571,312.0,3474.0,5.0,Retroactive
+572,312.0,39427.0,5.0,Stay
+573,312.0,4493.0,5.0,Critters 2
+574,312.0,3885.0,5.0,Love & Sex
+575,569.0,162672.0,5.0,Mohenjo Daro
+576,569.0,32797.0,5.0,Satan's Brew
+577,569.0,48165.0,5.0,The Seventh Continent
+578,569.0,73531.0,5.0,The Last of England
+579,92.0,3885.0,5.0,Love & Sex
+580,92.0,1733.0,5.0,Afterglow
+581,92.0,1174.0,5.0,Dead Tired
+582,92.0,2998.0,5.0,Dreaming of Joseph Lees
+583,246.0,6342.0,5.0,The Trip
+584,246.0,140759.0,5.0,The Big Gay Musical
+585,246.0,80584.0,5.0,"Patrik, Age 1.5"
+586,246.0,2062.0,5.0,The Governess
+587,654.0,8915.0,4.857142857142857,Stage Beauty
+588,654.0,111913.0,4.8,Lilting
+589,654.0,101947.0,4.785714285714286,U2: From the Sky Down
+590,654.0,1669.0,4.75,The Tango Lesson
+591,32.0,4584.0,5.0,Dream a Little Dream
+592,32.0,3816.0,5.0,The Official Story
+593,32.0,2969.0,5.0,A Man and a Woman
+594,32.0,105246.0,5.0,Mood Indigo
+595,667.0,5768.0,5.0,Modern Problems
+596,667.0,8484.0,5.0,The Human Condition I: No Greater Love
+597,667.0,3765.0,5.0,The Hot Spot
+598,667.0,88179.0,5.0,One Day
+599,523.0,559.0,5.0,"Paris, France"
+600,523.0,3580.0,5.0,Up at the Villa
+601,523.0,854.0,5.0,The Ballad of Narayama
+602,523.0,793.0,5.0,My Life and Times With Antonin Artaud
+603,287.0,1563.0,5.0,Dream with the Fishes
+604,287.0,5427.0,5.0,Caveman
+605,287.0,4562.0,5.0,Without a Clue
+606,287.0,4559.0,5.0,Vice Versa
+607,132.0,3580.0,5.0,Up at the Villa
+608,132.0,60857.0,5.0,The Tracey Fragments
+609,132.0,3657.0,5.0,Pandora and the Flying Dutchman
+610,132.0,3656.0,5.0,Lured
+611,220.0,5958.0,5.0,The Wild Thornberrys Movie
+612,220.0,6012.0,5.0,A Guy Thing
+613,220.0,70121.0,5.0,'Neath the Arizona Skies
+614,220.0,26564.0,5.0,’Round Midnight
+615,445.0,162672.0,5.0,Mohenjo Daro
+616,445.0,41573.0,5.0,The Family Stone
+617,445.0,5102.0,5.0,Rookie of the Year
+618,445.0,5141.0,5.0,The Bad News Bears in Breaking Training
+619,659.0,162672.0,5.0,Mohenjo Daro
+620,659.0,5969.0,5.0,My Girl 2
+621,659.0,5834.0,5.0,Fingers
+622,659.0,127098.0,5.0,Louis C.K.: Live at The Comedy Store
+623,91.0,5918.0,5.0,Alone in the Dark
+624,91.0,1067.0,5.0,A Damsel in Distress
+625,91.0,499.0,5.0,Mr. Wonderful
+626,91.0,3434.0,5.0,Death Wish 5: The Face of Death
+627,426.0,5788.0,4.75,All or Nothing
+628,426.0,5958.0,4.75,The Wild Thornberrys Movie
+629,426.0,6012.0,4.75,A Guy Thing
+630,426.0,6154.0,4.75,Deliver Us from Eva
+631,56.0,8915.0,4.6,Stage Beauty
+632,56.0,55732.0,4.5,Martian Child
+633,56.0,336.0,4.5,The Walking Dead
+634,56.0,4493.0,4.5,Critters 2
+635,205.0,8765.0,5.0,This Gun for Hire
+636,205.0,8629.0,5.0,The Book of Life
+637,205.0,6027.0,5.0,Dogfight
+638,205.0,25763.0,4.75,Pandora's Box
+639,73.0,4539.0,4.625,Salsa
+640,73.0,793.0,4.5,My Life and Times With Antonin Artaud
+641,73.0,264.0,4.5,L'Enfer
+642,73.0,6425.0,4.5,The Sixth Man
+643,22.0,5834.0,5.0,Fingers
+644,22.0,109249.0,5.0,The Journey
+645,22.0,6027.0,5.0,Dogfight
+646,22.0,4578.0,5.0,Chances Are
+647,34.0,47148.0,5.0,Mrs Palfrey at The Claremont
+648,34.0,69529.0,5.0,Home
+649,34.0,55417.0,5.0,Irina Palm
+650,34.0,71810.0,5.0,Legionnaire
+651,217.0,6531.0,5.0,The Advocate
+652,217.0,3003.0,5.0,Train of Life
+653,217.0,5236.0,5.0,A Tale of Springtime
+654,217.0,5224.0,5.0,Promises
+655,151.0,162672.0,5.0,Mohenjo Daro
+656,151.0,73860.0,5.0,Nowhere Boy
+657,151.0,89118.0,5.0,The Skin I Live In
+658,151.0,89045.0,5.0,Rocky VI
+659,137.0,1563.0,5.0,Dream with the Fishes
+660,137.0,105246.0,5.0,Mood Indigo
+661,137.0,78316.0,5.0,Letters to Juliet
+662,137.0,78174.0,5.0,Sex and the City 2
+663,196.0,130073.0,5.0,Cinderella
+664,196.0,27882.0,5.0,Riding Giants
+665,196.0,85612.0,5.0,Eden
+666,196.0,1163.0,5.0,Mina Tannenbaum
+667,615.0,8133.0,4.5,The Inheritance
+668,615.0,134246.0,4.4,Survivor
+669,615.0,138204.0,4.4,7 Days in Hell
+670,615.0,127098.0,4.3125,Louis C.K.: Live at The Comedy Store
+671,198.0,4076.0,5.0,Two Ninas
+672,198.0,4592.0,5.0,The Experts
+673,198.0,3434.0,5.0,Death Wish 5: The Face of Death
+674,198.0,2573.0,5.0,Tango
+675,609.0,54.0,5.0,The Big Green
+676,609.0,59985.0,5.0,Chaos Theory
+677,609.0,55100.0,5.0,I Could Never Be Your Woman
+678,609.0,55110.0,5.0,December Boys
+679,339.0,5917.0,5.0,Zoot Suit
+680,339.0,476.0,5.0,The Inkwell
+681,339.0,2438.0,5.0,Outside Ozona
+682,339.0,2758.0,5.0,Plenty
+683,488.0,2637.0,5.0,The Mummy's Hand
+684,488.0,2653.0,5.0,Son of Dracula
+685,488.0,2650.0,5.0,The Ghost of Frankenstein
+686,488.0,2649.0,5.0,Son of Frankenstein
+687,60.0,2767.0,5.0,Illuminata
+688,60.0,5985.0,5.0,Asoka
+690,60.0,148888.0,5.0,Zoolander 2
+691,10.0,134246.0,5.0,Survivor
+692,10.0,559.0,5.0,"Paris, France"
+693,10.0,793.0,5.0,My Life and Times With Antonin Artaud
+694,10.0,854.0,5.0,The Ballad of Narayama
+695,612.0,53.0,4.5,Lamerica
+696,612.0,2562.0,4.5,Bandits
+697,612.0,26564.0,4.5,’Round Midnight
+698,612.0,4593.0,4.5,Family Business
+699,134.0,5969.0,4.666666666666667,My Girl 2
+700,134.0,4559.0,4.666666666666667,Vice Versa
+701,134.0,2983.0,4.666666666666667,The Ipcress File
+702,134.0,4527.0,4.666666666666667,A Night in the Life of Jimmy Reardon
+703,475.0,8915.0,5.0,Stage Beauty
+704,475.0,6425.0,5.0,The Sixth Man
+705,475.0,58107.0,5.0,Step Up 2: The Streets
+706,475.0,2537.0,4.833333333333333,Beyond the Poseidon Adventure
+707,484.0,60990.0,5.0,The End of Summer
+708,484.0,79203.0,5.0,Nightwatching
+709,484.0,75983.0,5.0,North Face
+710,484.0,76173.0,5.0,Micmacs
+711,225.0,48520.0,5.0,Employee of the Month
+712,225.0,1692.0,5.0,Alien Escape
+713,225.0,3739.0,5.0,Trouble in Paradise
+714,225.0,4593.0,5.0,Family Business
+715,141.0,5866.0,5.0,They All Laughed
+716,141.0,6027.0,5.0,Dogfight
+717,141.0,4284.0,5.0,The King and I
+718,141.0,26578.0,5.0,The Sacrifice
+719,460.0,1311.0,5.0,Santa with Muscles
+720,460.0,5864.0,5.0,"Tarzan, the Ape Man"
+721,460.0,5413.0,5.0,Zombie Holocaust
+722,460.0,3883.0,5.0,Catfish in Black Bean Sauce
+723,298.0,68347.0,5.000000000000001,Sin Nombre
+724,298.0,61646.0,5.0,Dark Blue Almost Black
+725,298.0,58964.0,5.0,Inside
+726,298.0,60086.0,5.0,Boy Culture
+727,360.0,48501.0,5.0,G.O.R.A.
+728,360.0,147426.0,5.0,İtirazım Var
+729,360.0,107559.0,5.0,Death of a Superhero
+730,360.0,78316.0,5.0,Letters to Juliet
+731,390.0,162672.0,5.0,Mohenjo Daro
+732,390.0,107412.0,5.0,"Kidnapping, Caucasian Style"
+733,390.0,5958.0,5.0,The Wild Thornberrys Movie
+734,390.0,105246.0,5.0,Mood Indigo
+735,463.0,58107.0,5.0,Step Up 2: The Streets
+736,463.0,91548.0,4.5,Life in a Day
+737,463.0,101947.0,4.428571428571429,U2: From the Sky Down
+738,463.0,132952.0,4.416666666666667,Sarfarosh
+739,90.0,5917.0,5.0,Zoot Suit
+740,90.0,84847.0,5.0,Emma
+741,90.0,62378.0,4.666666666666667,Magicians
+742,90.0,8142.0,4.666666666666667,Dead or Alive
+743,544.0,1067.0,5.0,A Damsel in Distress
+744,544.0,690.0,5.0,The Promise
+745,544.0,559.0,5.0,"Paris, France"
+746,544.0,793.0,5.0,My Life and Times With Antonin Artaud
+747,619.0,615.0,5.000000000000001,Bread and Chocolate
+748,619.0,7843.0,5.0,Lammbock
+749,619.0,109742.0,5.0,Cheap Thrills
+750,619.0,107314.0,5.0,Oldboy
+751,345.0,4770.0,4.75,The Glass House
+752,345.0,58107.0,4.75,Step Up 2: The Streets
+753,345.0,70121.0,4.666666666666667,'Neath the Arizona Skies
+754,345.0,559.0,4.666666666666667,"Paris, France"
+755,418.0,4445.0,5.0,T-Rex: Back to the Cretaceous
+756,418.0,7564.0,4.5,Kwaidan
+757,418.0,31524.0,4.5,The Bitter Tears of Petra von Kant
+758,418.0,7938.0,4.5,Winter Light
+759,93.0,8915.0,5.0,Stage Beauty
+760,93.0,50804.0,4.625,Hannibal Rising
+761,93.0,4559.0,4.5,Vice Versa
+762,93.0,27186.0,4.5,Kirikou and the Sorceress
+763,180.0,781.0,5.000000000000001,Stealing Beauty
+764,180.0,161944.0,5.0,The Last Brickmaker in America
+765,180.0,60649.0,5.0,Space Chimps
+766,180.0,6163.0,5.0,He Loves Me... He Loves Me Not
+767,228.0,55250.0,5.0,The Game Plan
+768,228.0,4026.0,5.0,Nowhere to Hide
+769,228.0,2212.0,5.0,The Man Who Knew Too Much
+770,228.0,53447.0,5.0,Paranoid Park
+771,232.0,4493.0,5.0,Critters 2
+772,232.0,6425.0,5.0,The Sixth Man
+773,232.0,50804.0,5.0,Hannibal Rising
+774,232.0,111913.0,5.0,Lilting
+775,19.0,53974.0,5.0,License to Wed
+776,19.0,44225.0,5.0,Aquamarine
+777,19.0,6425.0,4.8,The Sixth Man
+778,19.0,3434.0,4.666666666666667,Death Wish 5: The Face of Death
+779,236.0,32153.0,5.0,Once Upon a Forest
+780,236.0,5864.0,5.0,"Tarzan, the Ape Man"
+781,236.0,4753.0,5.0,Vamp
+782,236.0,46574.0,5.0,The Oh in Ohio
+783,144.0,59834.0,5.0,100 Rifles
+784,144.0,4605.0,5.0,How to Get Ahead in Advertising
+785,144.0,78174.0,5.0,Sex and the City 2
+786,144.0,2869.0,5.0,La séparation
+787,266.0,78903.0,5.0,State of Siege
+788,266.0,4561.0,5.0,Waxwork
+789,266.0,4842.0,5.0,The Dogs of War
+790,266.0,4772.0,5.0,Dinner Rush
+791,238.0,2562.0,5.0,Bandits
+792,238.0,760.0,5.0,Stalingrad
+793,238.0,1880.0,4.5,Lawn Dogs
+794,238.0,4789.0,4.5,Phantom of the Paradise
+795,108.0,103444.0,5.0,Woody Allen: A Documentary
+796,108.0,50804.0,5.0,Hannibal Rising
+797,108.0,1669.0,5.0,The Tango Lesson
+798,108.0,1692.0,5.0,Alien Escape
+799,38.0,4466.0,5.0,Above the Law
+800,38.0,3768.0,5.0,Braddock: Missing in Action III
+801,38.0,4945.0,5.0,The Enforcer
+802,38.0,59834.0,5.0,100 Rifles
+803,596.0,58107.0,4.8,Step Up 2: The Streets
+804,596.0,4000.0,4.5,The Bounty
+805,596.0,2438.0,4.4375,Outside Ozona
+806,596.0,2776.0,4.428571428571429,Marcello Mastroianni: I Remember
+807,427.0,6425.0,5.0,The Sixth Man
+808,427.0,50804.0,5.0,Hannibal Rising
+809,427.0,881.0,5.0,First Kid
+810,427.0,8915.0,5.0,Stage Beauty
+811,219.0,162672.0,5.0,Mohenjo Daro
+812,219.0,7051.0,5.0,What's New Pussycat?
+813,219.0,25763.0,5.0,Pandora's Box
+814,219.0,138204.0,5.0,7 Days in Hell
+815,497.0,582.0,5.0,Café au Lait
+816,497.0,114.0,5.0,Margaret's Museum
+817,497.0,2758.0,5.0,Plenty
+818,497.0,191.0,5.0,The Scarlet Letter
+819,242.0,25763.0,5.0,Pandora's Box
+820,242.0,48165.0,5.0,The Seventh Continent
+821,242.0,106471.0,5.0,One Piece Film Strong World
+822,242.0,52617.0,5.0,Woman on the Beach
+823,178.0,1328.0,5.0,The Amityville Curse
+824,178.0,4605.0,4.5,How to Get Ahead in Advertising
+825,178.0,1472.0,4.5,City of Industry
+826,178.0,1539.0,4.5,Twin Town
+827,486.0,3434.0,5.0,Death Wish 5: The Face of Death
+828,486.0,4796.0,5.0,The Grass Is Greener
+829,486.0,2869.0,5.0,La séparation
+830,486.0,4605.0,5.0,How to Get Ahead in Advertising
+831,570.0,4593.0,5.0,Family Business
+832,570.0,499.0,5.0,Mr. Wonderful
+833,570.0,755.0,5.0,Kim
+834,570.0,2573.0,5.0,Tango
+835,35.0,142422.0,5.0,The Night Before
+836,35.0,127108.0,5.0,Brooklyn
+837,35.0,141890.0,5.0,Beasts of No Nation
+838,35.0,105429.0,5.0,Inequality for All
+839,297.0,4000.0,5.0,The Bounty
+840,297.0,8751.0,5.0,Gun Crazy
+841,297.0,8899.0,5.0,Hardcore
+842,297.0,8629.0,4.625,The Book of Life
+843,185.0,4000.0,5.0,The Bounty
+844,185.0,4493.0,5.0,Critters 2
+845,185.0,39427.0,5.0,Stay
+846,185.0,27186.0,4.5,Kirikou and the Sorceress
+847,550.0,26564.0,5.0,’Round Midnight
+848,550.0,1174.0,5.0,Dead Tired
+849,550.0,793.0,5.0,My Life and Times With Antonin Artaud
+850,550.0,71876.0,5.0,Amelia
+851,61.0,48660.0,5.0,The Elementary Particles
+852,61.0,27186.0,5.0,Kirikou and the Sorceress
+853,61.0,101947.0,5.0,U2: From the Sky Down
+854,61.0,2983.0,5.0,The Ipcress File
+855,306.0,162672.0,4.5,Mohenjo Daro
+857,306.0,109249.0,4.5,The Journey
+858,306.0,108514.0,4.5,Yeh Jawaani Hai Deewani
+859,585.0,1733.0,5.0,Afterglow
+860,585.0,559.0,5.0,"Paris, France"
+861,585.0,690.0,5.0,The Promise
+862,585.0,854.0,5.0,The Ballad of Narayama
+863,358.0,138204.0,5.0,7 Days in Hell
+864,358.0,55417.0,5.0,Irina Palm
+865,358.0,39427.0,5.0,Stay
+866,358.0,127098.0,5.0,Louis C.K.: Live at The Comedy Store
+867,504.0,38.0,4.0,It Takes Two
+868,504.0,103221.0,4.0,Not Suitable For Children
+869,504.0,104457.0,4.0,You're Next
+870,504.0,104245.0,4.0,Planes
+871,433.0,7204.0,5.0,Hells Angels on Wheels
+872,433.0,4753.0,5.0,Vamp
+873,433.0,3434.0,5.0,Death Wish 5: The Face of Death
+874,433.0,2191.0,5.0,Keep the Aspidistra Flying
+875,646.0,141886.0,5.0,The Dress
+876,646.0,106471.0,5.0,One Piece Film Strong World
+877,646.0,66544.0,5.0,Nuremberg
+878,646.0,2767.0,5.0,Illuminata
+879,652.0,7302.0,5.0,The Thief of Bagdad
+880,652.0,5101.0,5.0,Richard Pryor: Here and Now
+881,652.0,136445.0,5.0,George Carlin: Back in Town
+882,652.0,1472.0,5.0,City of Industry
+883,195.0,4284.0,5.0,The King and I
+884,195.0,264.0,4.666666666666667,L'Enfer
+885,195.0,573.0,4.666666666666667,"Ciao, Professore!"
+886,195.0,690.0,4.666666666666667,The Promise
+887,87.0,8327.0,5.0,Dolls
+888,87.0,5684.0,5.0,Naqoyqatsi
+889,87.0,1978.0,5.0,Friday the 13th: A New Beginning
+890,87.0,27186.0,5.0,Kirikou and the Sorceress
+891,647.0,115927.0,5.0,Doctor Strange
+892,647.0,7615.0,5.0,Desert Hearts
+893,647.0,110058.0,5.0,Brotherhood
+894,647.0,8699.0,5.0,Dancing in September
+895,142.0,8915.0,5.0,Stage Beauty
+896,142.0,4475.0,5.0,The Beast of War
+897,142.0,50804.0,5.0,Hannibal Rising
+898,142.0,4375.0,4.5,Funny Felix
+899,454.0,6039.0,5.000000000000001,The Woman in Red
+900,454.0,112804.0,5.000000000000001,I Origins
+901,454.0,114028.0,5.000000000000001,Pride
+902,454.0,105593.0,5.000000000000001,Filth
+903,487.0,78903.0,5.0,State of Siege
+904,487.0,98126.0,5.0,Capital
+905,487.0,148168.0,5.0,Pek Yakında
+906,487.0,78316.0,5.0,Letters to Juliet
+907,467.0,582.0,5.0,Café au Lait
+908,467.0,343.0,5.0,The Baby-Sitters Club
+909,467.0,95199.0,5.0,What to Expect When You're Expecting
+910,467.0,77414.0,5.0,The Last Song
+911,124.0,5917.0,5.0,Zoot Suit
+912,124.0,27186.0,4.833333333333333,Kirikou and the Sorceress
+913,124.0,1756.0,4.7727272727272725,The Prophecy II
+914,124.0,7379.0,4.7727272727272725,The Alamo
+915,563.0,8899.0,5.0,Hardcore
+916,563.0,4622.0,5.0,Loverboy
+917,563.0,3474.0,5.0,Retroactive
+918,563.0,4988.0,5.0,White Water Summer
+919,359.0,8604.0,4.5,Taxi
+920,359.0,3572.0,4.5,Carnosaur
+921,359.0,51372.0,4.5,Cats
+922,359.0,87975.0,4.5,Burn Notice: The Fall of Sam Axe
+923,370.0,44731.0,5.0,Stay Alive
+924,370.0,149830.0,5.0,Pride and Prejudice and Zombies
+925,370.0,5422.0,5.0,The Emperor's New Clothes
+926,370.0,7773.0,5.0,Bang Bang You're Dead
+927,313.0,162672.0,4.625,Mohenjo Daro
+929,313.0,162542.0,4.625,Rustom
+930,313.0,108514.0,4.625,Yeh Jawaani Hai Deewani
+931,318.0,70762.0,5.0,The Curiosity of Chance
+932,318.0,89870.0,5.0,Clapham Junction
+933,318.0,90403.0,5.0,The Three Musketeers
+934,318.0,99609.0,5.0,Judas Kiss
+935,561.0,7919.0,4.333333333333333,Drunken Angel
+936,561.0,101962.0,4.333333333333333,Wolf Children
+937,561.0,64695.0,4.333333333333333,Sword of the Stranger
+938,561.0,8484.0,4.333333333333333,The Human Condition I: No Greater Love
+940,95.0,32456.0,5.0,Pom Poko
+941,95.0,1669.0,5.0,The Tango Lesson
+942,95.0,107081.0,5.0,Zatôichi on the Road
+943,48.0,3657.0,5.0,Pandora and the Flying Dutchman
+944,48.0,3567.0,5.0,Bossa Nova
+945,48.0,3656.0,5.0,Lured
+946,48.0,3580.0,5.0,Up at the Villa
+947,160.0,8751.0,5.0,Gun Crazy
+948,160.0,2325.0,5.0,Orgazmo
+949,160.0,3829.0,5.0,Mad About Mambo
+950,160.0,8899.0,5.0,Hardcore
+951,128.0,4677.0,5.0,Turner & Hooch
+952,128.0,118468.0,5.0,Mei and the Kittenbus
+953,128.0,8751.0,5.0,Gun Crazy
+954,128.0,8899.0,5.0,Hardcore
+955,278.0,201.0,5.0,Three Wishes
+956,278.0,4180.0,5.0,Reform School Girls
+957,278.0,4089.0,5.0,Born in East L.A.
+958,278.0,243.0,5.0,Gordy
+959,352.0,4561.0,5.0,Waxwork
+960,352.0,4560.0,5.0,Watchers
+961,352.0,5343.0,5.0,The Temp
+962,352.0,5203.0,5.0,The Monster Club
+963,5.0,2190.0,4.5,Why Do Fools Fall In Love
+964,5.0,69280.0,4.5,The Clique
+965,5.0,2983.0,4.5,The Ipcress File
+966,5.0,439.0,4.5,Dangerous Game
+967,534.0,55732.0,5.0,Martian Child
+968,534.0,84847.0,5.0,Emma
+969,534.0,39427.0,5.0,Stay
+970,534.0,101947.0,5.0,U2: From the Sky Down
+971,8.0,3656.0,5.0,Lured
+972,8.0,3580.0,5.0,Up at the Villa
+973,8.0,3657.0,5.0,Pandora and the Flying Dutchman
+974,8.0,3567.0,5.0,Bossa Nova
+975,665.0,107516.0,4.583333333333333,Punk's Dead: SLC Punk 2
+976,665.0,62331.0,4.5,Dead Leaves
+977,665.0,26160.0,4.5,Asterix the Gaul
+978,665.0,44197.0,4.5,Find Me Guilty
+979,524.0,84847.0,4.75,Emma
+980,524.0,3572.0,4.75,Carnosaur
+981,524.0,69529.0,4.666666666666667,Home
+982,524.0,26578.0,4.5,The Sacrifice
+983,555.0,162672.0,5.0,Mohenjo Daro
+984,555.0,31524.0,5.0,The Bitter Tears of Petra von Kant
+985,555.0,52528.0,5.0,Tristana
+986,555.0,48165.0,5.0,The Seventh Continent
+987,466.0,162672.0,5.0,Mohenjo Daro
+988,466.0,4539.0,5.0,Salsa
+989,466.0,39427.0,5.0,Stay
+990,466.0,108514.0,5.0,Yeh Jawaani Hai Deewani
+991,628.0,285.0,5.0,Beyond Bedlam
+992,628.0,109249.0,5.0,The Journey
+993,628.0,4459.0,4.5,Alaska: Spirit of the Wild
+994,628.0,5839.0,4.5,My Father's Glory
+995,502.0,105246.0,5.0,Mood Indigo
+996,502.0,26151.0,5.0,Au Hasard Balthazar
+997,502.0,51372.0,5.0,Cats
+998,502.0,50804.0,5.0,Hannibal Rising
+999,419.0,71810.0,4.5,Legionnaire
+1000,419.0,53.0,4.5,Lamerica
+1001,419.0,981.0,4.5,Dangerous Ground
+1002,419.0,1881.0,4.5,Quest for Camelot
+1003,139.0,781.0,5.0,Stealing Beauty
+1004,139.0,1472.0,5.0,City of Industry
+1005,139.0,2537.0,5.0,Beyond the Poseidon Adventure
+1006,139.0,74688.0,4.75,Dear John
+1007,63.0,162672.0,5.0,Mohenjo Daro
+1008,63.0,6027.0,5.0,Dogfight
+1009,63.0,59985.0,5.0,Chaos Theory
+1010,63.0,61250.0,5.0,The House Bunny
+1011,408.0,3567.0,5.0,Bossa Nova
+1012,408.0,51094.0,5.0,Gray Matters
+1013,408.0,3656.0,5.0,Lured
+1014,408.0,3657.0,5.0,Pandora and the Flying Dutchman
+1015,97.0,55732.0,4.75,Martian Child
+1016,97.0,5832.0,4.5,Left Behind II: Tribulation Force
+1017,97.0,7204.0,4.5,Hells Angels on Wheels
+1018,97.0,5864.0,4.5,"Tarzan, the Ape Man"
+1019,292.0,47148.0,5.0,Mrs Palfrey at The Claremont
+1020,292.0,58107.0,4.833333333333333,Step Up 2: The Streets
+1021,292.0,4539.0,4.75,Salsa
+1022,292.0,4796.0,4.666666666666667,The Grass Is Greener
+1023,2.0,1328.0,5.0,The Amityville Curse
+1024,2.0,5834.0,5.0,Fingers
+1025,2.0,2983.0,5.0,The Ipcress File
+1026,2.0,5422.0,5.0,The Emperor's New Clothes
+1027,191.0,80717.0,5.0,Dedication
+1028,191.0,52617.0,5.0,Woman on the Beach
+1029,191.0,58425.0,5.0,Sigur Rós: Heima
+1030,191.0,59834.0,5.0,100 Rifles
+1031,299.0,3829.0,5.0,Mad About Mambo
+1032,299.0,3780.0,5.0,Rocketship X-M
+1033,299.0,1472.0,5.0,City of Industry
+1034,299.0,3474.0,5.0,Retroactive
+1035,411.0,2325.0,5.0,Orgazmo
+1036,411.0,6033.0,5.0,Mystery Date
+1037,411.0,1428.0,5.0,Angel Baby
+1038,411.0,26228.0,5.0,A Swedish Love Story
+1039,399.0,107516.0,5.0,Punk's Dead: SLC Punk 2
+1040,399.0,134569.0,5.0,She's Funny That Way
+1041,399.0,82931.0,5.0,The Last Circus
+1042,399.0,48501.0,5.0,G.O.R.A.
+1043,125.0,264.0,5.0,L'Enfer
+1044,125.0,7312.0,5.0,"Follow Me, Boys!"
+1045,125.0,61465.0,5.0,Bangkok Dangerous
+1046,125.0,3883.0,5.0,Catfish in Black Bean Sauce
+1047,188.0,107516.0,5.0,Punk's Dead: SLC Punk 2
+1048,188.0,81132.0,5.0,Rubber
+1049,188.0,104925.0,5.0,The Family
+1050,188.0,8765.0,5.0,This Gun for Hire
+1051,235.0,26151.0,5.0,Au Hasard Balthazar
+1052,235.0,1669.0,5.0,The Tango Lesson
+1053,235.0,127098.0,5.0,Louis C.K.: Live at The Comedy Store
+1054,235.0,755.0,5.0,Kim
+1055,164.0,1174.0,5.0,Dead Tired
+1056,164.0,5832.0,5.0,Left Behind II: Tribulation Force
+1057,164.0,264.0,5.0,L'Enfer
+1058,164.0,60857.0,5.0,The Tracey Fragments
+1059,77.0,6027.0,4.25,Dogfight
+1060,77.0,69280.0,4.25,The Clique
+1061,77.0,8765.0,4.25,This Gun for Hire
+1062,77.0,8629.0,4.25,The Book of Life
+1063,85.0,4605.0,5.0,How to Get Ahead in Advertising
+1064,85.0,72294.0,5.0,A Christmas Carol
+1065,85.0,6531.0,5.0,The Advocate
+1066,85.0,115927.0,5.0,Doctor Strange
+1067,400.0,105593.0,5.0,Filth
+1068,400.0,4399.0,5.0,Diary of a Chambermaid
+1069,400.0,3047.0,5.0,Experience Preferred...But Not Essential
+1070,400.0,107516.0,5.0,Punk's Dead: SLC Punk 2
+1071,629.0,162672.0,5.0,Mohenjo Daro
+1072,629.0,42935.0,5.0,Riding Alone for Thousands of Miles
+1073,629.0,4300.0,5.0,Bread and Roses
+1074,629.0,8675.0,5.0,The Enemy Below
+1075,7.0,5352.0,5.0,The Big Sleep
+1076,7.0,4605.0,5.0,How to Get Ahead in Advertising
+1077,7.0,5236.0,5.0,A Tale of Springtime
+1078,7.0,5224.0,5.0,Promises
+1079,423.0,58107.0,4.75,Step Up 2: The Streets
+1080,423.0,8133.0,4.5,The Inheritance
+1081,423.0,4000.0,4.5,The Bounty
+1082,423.0,1067.0,4.5,A Damsel in Distress
+1083,271.0,3657.0,5.0,Pandora and the Flying Dutchman
+1084,271.0,336.0,5.0,The Walking Dead
+1085,271.0,26160.0,5.0,Asterix the Gaul
+1086,271.0,4067.0,5.0,Untamed Heart
+1087,598.0,793.0,5.0,My Life and Times With Antonin Artaud
+1088,598.0,264.0,5.0,L'Enfer
+1089,598.0,1733.0,5.0,Afterglow
+1090,598.0,1174.0,5.0,Dead Tired
+1091,17.0,55417.0,5.0,Irina Palm
+1092,17.0,8133.0,5.0,The Inheritance
+1093,17.0,58107.0,4.666666666666667,Step Up 2: The Streets
+1094,17.0,78903.0,4.653846153846154,State of Siege
+1095,86.0,6425.0,5.0,The Sixth Man
+1096,86.0,52545.0,5.0,Puccini for Beginners
+1097,86.0,27186.0,5.0,Kirikou and the Sorceress
+1098,86.0,47148.0,5.0,Mrs Palfrey at The Claremont
+1099,261.0,162672.0,5.0,Mohenjo Daro
+1100,261.0,81054.0,5.0,Love Is Colder Than Death
+1101,261.0,26318.0,5.0,The Phantom of Liberty
+1102,261.0,26578.0,5.0,The Sacrifice
+1103,184.0,107516.0,5.0,Punk's Dead: SLC Punk 2
+1104,184.0,78174.0,5.0,Sex and the City 2
+1105,184.0,103444.0,5.0,Woody Allen: A Documentary
+1106,184.0,78903.0,5.0,State of Siege
+1107,479.0,2776.0,5.0,Marcello Mastroianni: I Remember
+1108,479.0,285.0,5.0,Beyond Bedlam
+1109,479.0,26564.0,5.0,’Round Midnight
+1110,479.0,55417.0,5.0,Irina Palm
+1111,133.0,26564.0,4.25,’Round Midnight
+1112,133.0,45969.0,4.25,Career Opportunities
+1113,133.0,59834.0,4.25,100 Rifles
+1114,133.0,70121.0,4.25,'Neath the Arizona Skies
+1115,531.0,439.0,4.5,Dangerous Game
+1116,531.0,4578.0,4.5,Chances Are
+1117,531.0,46574.0,4.5,The Oh in Ohio
+1118,531.0,32153.0,4.5,Once Upon a Forest
+1119,458.0,39427.0,5.0,Stay
+1120,458.0,101947.0,5.0,U2: From the Sky Down
+1121,458.0,6027.0,5.0,Dogfight
+1122,458.0,8629.0,5.0,The Book of Life
+1123,273.0,5866.0,5.0,They All Laughed
+1124,273.0,2776.0,5.0,Marcello Mastroianni: I Remember
+1125,273.0,2981.0,5.0,Brother Can You Spare A Dime
+1126,273.0,3217.0,5.0,A Star Is Born
+1127,578.0,55417.0,5.0,Irina Palm
+1128,578.0,336.0,4.0,The Walking Dead
+1129,578.0,5224.0,4.0,Promises
+1130,578.0,4208.0,4.0,Unmade Beds
+1131,245.0,32554.0,5.0,Memories
+1132,245.0,45000.0,5.0,La Chinoise
+1133,245.0,138204.0,5.0,7 Days in Hell
+1134,245.0,57792.0,5.0,Caramel
+1135,471.0,8915.0,4.666666666666667,Stage Beauty
+1136,471.0,50804.0,4.625,Hannibal Rising
+1137,471.0,5788.0,4.5,All or Nothing
+1138,471.0,5179.0,4.5,Gloria
+1139,655.0,46574.0,5.0,The Oh in Ohio
+1140,655.0,5278.0,5.0,Fraternity Vacation
+1141,655.0,3879.0,5.0,The Art of War
+1142,655.0,7312.0,5.0,"Follow Me, Boys!"
+1143,439.0,55417.0,5.0,Irina Palm
+1144,439.0,73860.0,4.4,Nowhere Boy
+1145,439.0,27664.0,4.4,The Brown Bunny
+1146,439.0,2438.0,4.333333333333333,Outside Ozona
+1147,319.0,1472.0,5.0,City of Industry
+1148,319.0,781.0,4.5,Stealing Beauty
+1149,319.0,66371.0,4.003251261374884,Departures
+1150,319.0,55069.0,4.000189244613895,"4 Months, 3 Weeks and 2 Days"
+1151,366.0,8240.0,5.0,Totally Fucked Up
+1152,366.0,3161.0,5.0,Onegin
+1153,366.0,2864.0,5.0,Splendor
+1154,366.0,2892.0,5.0,New Rose Hotel
+1155,549.0,4445.0,5.0,T-Rex: Back to the Cretaceous
+1156,549.0,5864.0,5.0,"Tarzan, the Ape Man"
+1157,549.0,1669.0,5.0,The Tango Lesson
+1158,549.0,1636.0,5.0,Stag
+1159,247.0,7938.0,5.0,Winter Light
+1160,247.0,1669.0,5.0,The Tango Lesson
+1161,247.0,3303.0,5.0,Black Tar Heroin: The Dark End of the Street
+1162,247.0,6509.0,5.0,Ali: Fear Eats the Soul
+1163,148.0,5527.0,5.0,Possession
+1164,148.0,26151.0,5.0,Au Hasard Balthazar
+1165,148.0,1067.0,5.0,A Damsel in Distress
+1166,148.0,111913.0,5.0,Lilting
+1167,309.0,2649.0,5.0,Son of Frankenstein
+1168,309.0,1328.0,5.0,The Amityville Curse
+1169,309.0,5918.0,5.0,Alone in the Dark
+1170,309.0,127098.0,5.0,Louis C.K.: Live at The Comedy Store
+1171,622.0,2704.0,5.000000000000001,Les Amants du Pont-Neuf
+1172,622.0,4298.0,5.0,Rififi
+1173,622.0,88345.0,5.0,Mike's New Car
+1174,622.0,5958.0,5.0,The Wild Thornberrys Movie
+1175,94.0,1878.0,5.0,Woo
+1176,94.0,2190.0,5.0,Why Do Fools Fall In Love
+1177,94.0,106540.0,4.5625,Delivery Man
+1178,94.0,3780.0,4.5,Rocketship X-M
+1179,340.0,162672.0,5.0,Mohenjo Daro
+1180,340.0,26294.0,5.0,My Name Is Nobody
+1181,340.0,110352.0,5.0,Survival Island
+1182,340.0,110645.0,5.0,Witching & Bitching
+1183,46.0,4967.0,5.000000000000002,No Man's Land
+1184,46.0,5421.0,5.000000000000002,The Dangerous Lives of Altar Boys
+1185,46.0,56339.0,5.000000000000002,The Orphanage
+1186,46.0,6482.0,5.000000000000002,Dumb and Dumberer: When Harry Met Lloyd
+1187,88.0,91548.0,4.5,Life in a Day
+1188,88.0,58107.0,4.375,Step Up 2: The Streets
+1189,88.0,26160.0,4.25,Asterix the Gaul
+1190,88.0,48660.0,4.25,The Elementary Particles
+1191,231.0,476.0,5.0,The Inkwell
+1192,231.0,2325.0,5.0,Orgazmo
+1193,231.0,72294.0,5.0,A Christmas Carol
+1194,231.0,71876.0,5.0,Amelia
+1195,584.0,1636.0,5.0,Stag
+1196,584.0,138204.0,5.0,7 Days in Hell
+1197,584.0,4550.0,5.0,Switching Channels
+1198,584.0,4527.0,5.0,A Night in the Life of Jimmy Reardon
+1199,223.0,162672.0,5.0,Mohenjo Daro
+1200,223.0,3737.0,5.0,Lonely Are the Brave
+1201,223.0,3879.0,5.0,The Art of War
+1202,223.0,845.0,5.0,The Day the Sun Turned Cold
+1203,567.0,1636.0,5.0,Stag
+1204,567.0,4208.0,5.0,Unmade Beds
+1205,567.0,251.0,5.0,The Hunted
+1206,567.0,59549.0,5.0,Shelter
+1207,295.0,127098.0,4.75,Louis C.K.: Live at The Comedy Store
+1208,295.0,109249.0,4.75,The Journey
+1209,295.0,26160.0,4.666666666666667,Asterix the Gaul
+1210,295.0,44197.0,4.666666666666667,Find Me Guilty
+1211,152.0,1878.0,5.0,Woo
+1212,152.0,2190.0,5.0,Why Do Fools Fall In Love
+1213,152.0,2653.0,4.75,Son of Dracula
+1214,152.0,2650.0,4.75,The Ghost of Frankenstein
+1215,422.0,7564.0,5.0,Kwaidan
+1216,422.0,3885.0,5.0,Love & Sex
+1217,422.0,7051.0,5.0,What's New Pussycat?
+1218,422.0,40491.0,5.0,The Match Factory Girl
+1219,614.0,7282.0,5.0,Da Hip Hop Witch
+1220,614.0,135532.0,5.0,The Last Witch Hunter
+1221,614.0,107769.0,5.0,Paranormal Activity: The Marked Ones
+1222,614.0,81132.0,5.0,Rubber
+1223,554.0,6012.0,5.0,A Guy Thing
+1224,554.0,698.0,5.0,Delta of Venus
+1225,554.0,4131.0,5.0,Making Mr. Right
+1226,554.0,3834.0,5.0,Bronco Billy
+1227,546.0,2552.0,5.000000000000001,My Boyfriend's Back
+1228,546.0,26903.0,5.000000000000001,Whisper of the Heart
+1229,546.0,3568.0,5.0,Smiling Fish & Goat On Fire
+1230,546.0,26160.0,5.0,Asterix the Gaul
+1231,395.0,74688.0,5.000000000000001,Dear John
+1232,395.0,162672.0,5.0,Mohenjo Daro
+1233,395.0,5677.0,5.0,Abandon
+1234,395.0,81132.0,5.0,Rubber
+1235,412.0,55250.0,5.0,The Game Plan
+1236,412.0,6474.0,4.055555555555555,The Truce
+1238,412.0,39427.0,4.0,Stay
+1239,533.0,88179.0,5.0,One Day
+1240,533.0,107081.0,5.0,Zatôichi on the Road
+1241,533.0,27727.0,5.0,Head-On
+1242,533.0,6571.0,5.0,Mondays in the Sun
+1243,386.0,4539.0,5.0,Salsa
+1244,386.0,84236.0,4.666666666666667,The White Stripes: Under Great White Northern Lights
+1245,386.0,4770.0,4.333333333333333,The Glass House
+1246,386.0,1756.0,4.25,The Prophecy II
+1247,344.0,162672.0,5.0,Mohenjo Daro
+1248,344.0,1539.0,5.0,Twin Town
+1249,344.0,4399.0,5.0,Diary of a Chambermaid
+1250,344.0,4208.0,5.0,Unmade Beds
+1251,558.0,6332.0,5.0,The Lizzie McGuire Movie
+1252,558.0,114.0,5.0,Margaret's Museum
+1253,558.0,117851.0,5.0,Penguins of Madagascar
+1254,558.0,47122.0,5.0,John Tucker Must Die
+1255,193.0,3710.0,5.0,Action Jackson
+1256,193.0,793.0,5.0,My Life and Times With Antonin Artaud
+1257,193.0,6425.0,5.0,The Sixth Man
+1258,193.0,60857.0,5.0,The Tracey Fragments
+1259,281.0,3567.0,4.833333333333333,Bossa Nova
+1260,281.0,3656.0,4.833333333333333,Lured
+1261,281.0,3580.0,4.833333333333333,Up at the Villa
+1262,281.0,3657.0,4.833333333333333,Pandora and the Flying Dutchman
+1263,456.0,1636.0,5.0,Stag
+1264,456.0,401.0,5.0,Mirage
+1265,456.0,5788.0,5.0,All or Nothing
+1266,456.0,5413.0,5.0,Zombie Holocaust
+1267,103.0,42935.0,5.0,Riding Alone for Thousands of Miles
+1268,103.0,32153.0,5.0,Once Upon a Forest
+1269,103.0,2636.0,5.0,The Mummy's Ghost
+1270,103.0,2637.0,5.0,The Mummy's Hand
+1271,459.0,33646.0,5.000000000000001,The Longest Yard
+1272,459.0,6154.0,5.0,Deliver Us from Eva
+1273,459.0,6244.0,5.0,Salaam Bombay!
+1274,459.0,6772.0,5.0,To Be and to Have
+1275,13.0,2758.0,5.0,Plenty
+1276,13.0,25763.0,5.0,Pandora's Box
+1277,13.0,7051.0,5.0,What's New Pussycat?
+1278,13.0,26265.0,5.0,Dr. Phibes Rises Again
+1279,282.0,51372.0,5.0,Cats
+1280,282.0,84847.0,5.0,Emma
+1281,282.0,4284.0,5.0,The King and I
+1282,282.0,80748.0,5.0,Bread and Tulips
+1283,215.0,89118.0,5.0,The Skin I Live In
+1284,215.0,110352.0,5.0,Survival Island
+1285,215.0,1692.0,5.0,Alien Escape
+1286,215.0,105585.0,5.0,Machete Kills
+1287,441.0,264.0,5.0,L'Enfer
+1288,441.0,1733.0,5.0,Afterglow
+1289,441.0,559.0,5.0,"Paris, France"
+1290,441.0,1174.0,5.0,Dead Tired
+1291,656.0,6884.0,5.0,Veronica Guerin
+1292,656.0,110586.0,5.0,Calvary
+1293,656.0,102753.0,5.0,The Past
+1294,656.0,5839.0,5.0,My Father's Glory
+1295,373.0,71876.0,5.0,Amelia
+1296,373.0,27186.0,5.0,Kirikou and the Sorceress
+1297,373.0,109249.0,5.0,The Journey
+1298,373.0,26564.0,5.0,’Round Midnight
+1299,50.0,4475.0,5.0,The Beast of War
+1300,50.0,5917.0,5.0,Zoot Suit
+1301,50.0,1328.0,5.0,The Amityville Curse
+1302,50.0,4518.0,4.534849191434204,The Lair of the White Worm
+1303,620.0,4000.0,5.0,The Bounty
+1304,620.0,1067.0,5.0,A Damsel in Distress
+1305,620.0,71876.0,4.5,Amelia
+1306,620.0,5864.0,4.5,"Tarzan, the Ape Man"
+1307,541.0,8484.0,5.0,The Human Condition I: No Greater Love
+1308,541.0,64695.0,5.0,Sword of the Stranger
+1309,541.0,101947.0,5.0,U2: From the Sky Down
+1310,541.0,3829.0,5.0,Mad About Mambo
+1311,496.0,2481.0,5.0,My Name Is Joe
+1312,496.0,26150.0,5.0,Andrei Rublev
+1313,496.0,8484.0,5.0,The Human Condition I: No Greater Love
+1314,496.0,439.0,5.0,Dangerous Game
+1315,397.0,27186.0,4.5,Kirikou and the Sorceress
+1316,397.0,78836.0,4.5,Enter the Void
+1317,397.0,31524.0,4.5,The Bitter Tears of Petra von Kant
+1318,397.0,95199.0,4.5,What to Expect When You're Expecting
+1319,343.0,5568.0,5.000000000000001,Johnny Dangerously
+1320,343.0,26007.0,5.0,The Unknown Soldier
+1321,343.0,66915.0,5.0,Rock-A-Doodle
+1322,343.0,3047.0,5.0,Experience Preferred...But Not Essential
+1323,192.0,101947.0,5.0,U2: From the Sky Down
+1324,192.0,26265.0,5.0,Dr. Phibes Rises Again
+1325,192.0,81054.0,5.0,Love Is Colder Than Death
+1326,192.0,26318.0,5.0,The Phantom of Liberty
+1327,559.0,70994.0,5.0,Halloween II
+1328,559.0,2998.0,5.0,Dreaming of Joseph Lees
+1329,559.0,4026.0,5.0,Nowhere to Hide
+1330,559.0,285.0,5.0,Beyond Bedlam
+1331,59.0,91548.0,5.0,Life in a Day
+1332,59.0,55732.0,5.0,Martian Child
+1333,59.0,8982.0,5.0,I Am David
+1334,59.0,39427.0,5.0,Stay
+1335,434.0,4000.0,5.0,The Bounty
+1336,434.0,3945.0,5.0,Digimon: The Movie
+1337,434.0,4189.0,4.666666666666667,The Greatest Story Ever Told
+1338,434.0,1692.0,4.666666666666667,Alien Escape
+1339,671.0,1472.0,5.0,City of Industry
+1340,671.0,336.0,5.0,The Walking Dead
+1341,671.0,138204.0,5.0,7 Days in Hell
+1342,671.0,134246.0,5.0,Survivor
+1343,80.0,8197.0,5.000000000000001,Hiroshima Mon Amour
+1344,80.0,71180.0,5.0,Padre Padrone
+1345,80.0,100843.0,5.0,A Coffee in Berlin
+1346,80.0,71433.0,5.0,"Black God, White Devil"
+1347,200.0,8751.0,4.666666666666667,Gun Crazy
+1348,200.0,8899.0,4.666666666666667,Hardcore
+1349,200.0,8133.0,4.5,The Inheritance
+1350,200.0,4445.0,4.5,T-Rex: Back to the Cretaceous
+1351,342.0,106540.0,5.0,Delivery Man
+1352,342.0,5076.0,5.0,The Adventures of Huck Finn
+1353,342.0,109249.0,5.0,The Journey
+1354,342.0,44197.0,5.0,Find Me Guilty
+1355,593.0,82931.0,5.0,The Last Circus
+1356,593.0,7938.0,5.0,Winter Light
+1357,593.0,1444.0,5.0,Guantanamera
+1358,593.0,3415.0,5.0,Mirror
+1359,96.0,66246.0,5.000000000000001,Uuno Turhapuro
+1360,96.0,2008.0,5.0,"This World, Then the Fireworks"
+1361,96.0,95313.0,5.0,Jack-Jack Attack
+1362,96.0,1563.0,5.0,Dream with the Fishes
+1363,304.0,5278.0,5.0,Fraternity Vacation
+1364,304.0,7312.0,5.0,"Follow Me, Boys!"
+1365,304.0,46574.0,5.0,The Oh in Ohio
+1366,304.0,1311.0,5.0,Santa with Muscles
+1367,603.0,3637.0,5.0,Vagabond
+1368,603.0,5985.0,5.0,Asoka
+1369,603.0,5236.0,5.0,A Tale of Springtime
+1370,603.0,4131.0,5.0,Making Mr. Right
+1371,562.0,26265.0,4.833333333333333,Dr. Phibes Rises Again
+1372,562.0,25763.0,4.833333333333333,Pandora's Box
+1373,562.0,7051.0,4.833333333333333,What's New Pussycat?
+1374,562.0,3885.0,4.666666666666667,Love & Sex
+1375,442.0,4284.0,5.0,The King and I
+1376,442.0,4493.0,5.0,Critters 2
+1377,442.0,6012.0,4.8,A Guy Thing
+1378,442.0,5958.0,4.8,The Wild Thornberrys Movie
+1379,255.0,4550.0,5.0,Switching Channels
+1380,255.0,7051.0,5.0,What's New Pussycat?
+1381,255.0,3883.0,5.0,Catfish in Black Bean Sauce
+1382,255.0,760.0,5.0,Stalingrad
+1383,248.0,80551.0,5.000000000000001,Eat Pray Love
+1384,248.0,33145.0,5.000000000000001,A Lot Like Love
+1385,248.0,72612.0,5.0,The Fly
+1386,248.0,32170.0,5.0,Chronicles
+1387,36.0,4067.0,5.0,Untamed Heart
+1388,36.0,6154.0,5.0,Deliver Us from Eva
+1389,36.0,27186.0,5.0,Kirikou and the Sorceress
+1390,36.0,5958.0,5.0,The Wild Thornberrys Movie
+1391,25.0,26394.0,5.0,The Turning Point
+1392,25.0,5568.0,5.0,Johnny Dangerously
+1393,25.0,1978.0,5.0,Friday the 13th: A New Beginning
+1394,25.0,3207.0,5.0,The Snows of Kilimanjaro
+1395,601.0,4626.0,5.0,Miracle Mile
+1396,601.0,26695.0,5.0,The Krays
+1397,601.0,1542.0,5.0,Brassed Off
+1398,601.0,7302.0,5.0,The Thief of Bagdad
+1399,315.0,64499.0,5.0,Che: Part One
+1400,315.0,1878.0,5.0,Woo
+1401,315.0,3567.0,5.0,Bossa Nova
+1402,315.0,6474.0,5.0,The Truce
+1403,324.0,285.0,4.0,Beyond Bedlam
+1404,324.0,25763.0,4.0,Pandora's Box
+1405,324.0,4593.0,4.0,Family Business
+1406,324.0,4770.0,4.0,The Glass House
+1407,641.0,7615.0,5.0,Desert Hearts
+1408,641.0,47148.0,5.0,Mrs Palfrey at The Claremont
+1409,641.0,52545.0,5.0,Puccini for Beginners
+1410,641.0,53974.0,5.0,License to Wed
+1411,464.0,72356.0,5.000000000000001,Partly Cloudy
+1412,464.0,27178.0,5.000000000000001,In July
+1413,464.0,27728.0,5.000000000000001,Ghost in the Shell 2: Innocence
+1414,464.0,6978.0,5.000000000000001,Slacker
+1415,79.0,499.0,4.0,Mr. Wonderful
+1416,79.0,4593.0,4.0,Family Business
+1417,79.0,4770.0,4.0,The Glass House
+1418,79.0,148888.0,4.0,Zoolander 2
+1419,661.0,74727.0,5.000000000000001,Gentlemen of Fortune
+1420,661.0,27178.0,5.000000000000001,In July
+1421,661.0,56633.0,5.0,Butterfly on a Wheel
+1422,661.0,99912.0,5.0,Mama
+1423,519.0,5832.0,5.0,Left Behind II: Tribulation Force
+1424,519.0,5278.0,5.0,Fraternity Vacation
+1425,519.0,5918.0,5.0,Alone in the Dark
+1426,519.0,4067.0,5.0,Untamed Heart
+1427,369.0,162672.0,5.0,Mohenjo Daro
+1428,369.0,50804.0,5.0,Hannibal Rising
+1429,369.0,26701.0,5.0,Patlabor: The Movie
+1430,369.0,106471.0,5.0,One Piece Film Strong World
+1431,521.0,5117.0,5.0,Funny Lady
+1432,521.0,5527.0,5.0,Possession
+1433,521.0,32153.0,5.0,Once Upon a Forest
+1434,521.0,2438.0,5.0,Outside Ozona
+1435,183.0,26578.0,5.0,The Sacrifice
+1436,183.0,872.0,5.0,Vive L'Amour
+1437,183.0,101947.0,5.0,U2: From the Sky Down
+1438,183.0,82167.0,5.0,Love & Other Drugs
+1439,14.0,4475.0,5.0,The Beast of War
+1440,14.0,58706.0,5.0,Under the Same Moon
+1441,14.0,6195.0,5.0,Stone Reader
+1442,14.0,26599.0,4.5,Law of Desire
+1443,83.0,4466.0,5.0,Above the Law
+1444,83.0,1067.0,5.0,A Damsel in Distress
+1445,83.0,4945.0,5.0,The Enforcer
+1446,83.0,3768.0,5.0,Braddock: Missing in Action III
+1447,107.0,254.0,5.000000000000001,Jefferson in Paris
+1448,107.0,2844.0,5.0,The Minus Man
+1449,107.0,1926.0,5.0,The Broadway Melody
+1450,107.0,8785.0,5.0,Early Summer
+1451,65.0,2849.0,5.0,Queens Logic
+1452,65.0,43556.0,5.0,Annapolis
+1453,65.0,4189.0,5.0,The Greatest Story Ever Told
+1454,65.0,1563.0,5.0,Dream with the Fishes
+1455,16.0,85612.0,5.0,Eden
+1456,16.0,116939.0,5.0,Werner - Beinhart!
+1457,16.0,7340.0,5.0,Just One of the Guys
+1458,16.0,2772.0,5.0,Detroit Rock City
+1459,31.0,58107.0,5.0,Step Up 2: The Streets
+1460,31.0,4493.0,5.0,Critters 2
+1461,31.0,4770.0,4.75,The Glass House
+1462,31.0,5076.0,4.75,The Adventures of Huck Finn
+1463,490.0,6474.0,5.0,The Truce
+1464,490.0,26294.0,5.0,My Name Is Nobody
+1465,490.0,27838.0,4.5,Mean Creek
+1466,490.0,26462.0,4.333333333333333,Bad Boys
+1467,320.0,3656.0,5.0,Lured
+1468,320.0,301.0,5.0,Picture Bride
+1469,320.0,1067.0,5.0,A Damsel in Distress
+1470,320.0,3657.0,5.0,Pandora and the Flying Dutchman
+1471,465.0,103.0,5.000000000000001,Unforgettable
+1472,465.0,2325.0,5.0,Orgazmo
+1473,465.0,2562.0,5.0,Bandits
+1474,465.0,3003.0,5.0,Train of Life
+1475,126.0,2562.0,5.0,Bandits
+1476,126.0,39427.0,5.0,Stay
+1477,126.0,1328.0,5.0,The Amityville Curse
+1478,126.0,111913.0,5.0,Lilting
+1479,627.0,8915.0,4.333333333333333,Stage Beauty
+1480,627.0,50804.0,4.3,Hannibal Rising
+1481,627.0,73860.0,4.25,Nowhere Boy
+1482,627.0,26160.0,4.25,Asterix the Gaul
+1483,432.0,58107.0,5.0,Step Up 2: The Streets
+1484,432.0,1428.0,5.0,Angel Baby
+1485,432.0,844.0,5.0,The Story of Xinghua
+1486,432.0,842.0,5.0,Bordello of Blood
+1487,354.0,27664.0,5.0,The Brown Bunny
+1488,354.0,2008.0,5.0,"This World, Then the Fireworks"
+1490,354.0,26150.0,5.0,Andrei Rublev
+1491,406.0,26160.0,5.0,Asterix the Gaul
+1492,406.0,4753.0,5.0,Vamp
+1493,406.0,46574.0,5.0,The Oh in Ohio
+1494,406.0,55417.0,5.0,Irina Palm
+1495,455.0,1926.0,4.5,The Broadway Melody
+1496,455.0,3522.0,4.5,Sacco & Vanzetti
+1497,455.0,2212.0,4.5,The Man Who Knew Too Much
+1498,455.0,2201.0,4.5,The Paradine Case
+1499,391.0,5076.0,5.0,The Adventures of Huck Finn
+1500,391.0,6332.0,5.0,The Lizzie McGuire Movie
+1501,391.0,5675.0,5.0,Swept Away
+1502,391.0,26599.0,5.0,Law of Desire
+1503,653.0,5917.0,5.0,Zoot Suit
+1504,653.0,143859.0,5.0,"Hail, Caesar!"
+1505,653.0,130073.0,5.0,Cinderella
+1506,653.0,129514.0,5.0,George Carlin: It's Bad for Ya!
+1507,470.0,26151.0,5.0,Au Hasard Balthazar
+1508,470.0,439.0,4.5,Dangerous Game
+1509,470.0,4550.0,4.5,Switching Channels
+1510,470.0,5969.0,4.5,My Girl 2
+1511,260.0,6012.0,5.0,A Guy Thing
+1512,260.0,48660.0,5.0,The Elementary Particles
+1513,260.0,4399.0,5.0,Diary of a Chambermaid
+1514,260.0,3572.0,5.0,Carnosaur
+1515,401.0,294.0,5.000000000000001,The Perez Family
+1516,401.0,47122.0,5.0,John Tucker Must Die
+1517,401.0,2325.0,5.0,Orgazmo
+1518,401.0,1067.0,5.0,A Damsel in Distress
+1519,175.0,4026.0,5.0,Nowhere to Hide
+1520,175.0,3003.0,5.0,Train of Life
+1521,175.0,793.0,5.0,My Life and Times With Antonin Artaud
+1522,175.0,854.0,5.0,The Ballad of Narayama
+1523,462.0,162672.0,5.0,Mohenjo Daro
+1524,462.0,4770.0,5.0,The Glass House
+1525,462.0,89102.0,5.0,Freakonomics
+1526,462.0,89761.0,5.0,A Dangerous Method
+1527,365.0,45969.0,5.0,Career Opportunities
+1528,365.0,2964.0,5.0,Julien Donkey-Boy
+1529,365.0,285.0,5.0,Beyond Bedlam
+1530,365.0,4593.0,5.0,Family Business
+1531,104.0,439.0,5.0,Dangerous Game
+1532,104.0,8765.0,5.0,This Gun for Hire
+1533,104.0,106540.0,5.0,Delivery Man
+1534,104.0,5788.0,5.0,All or Nothing
+1535,670.0,872.0,5.0,Vive L'Amour
+1536,670.0,4538.0,5.0,Salome's Last Dance
+1537,670.0,2839.0,5.0,West Beyrouth
+1538,670.0,81054.0,5.0,Love Is Colder Than Death
+1539,409.0,2998.0,5.0,Dreaming of Joseph Lees
+1540,409.0,4849.0,5.0,My First Mister
+1541,409.0,60674.0,5.0,Stargate: Continuum
+1542,409.0,105246.0,5.0,Mood Indigo
+1543,68.0,8915.0,5.0,Stage Beauty
+1544,68.0,50804.0,5.0,Hannibal Rising
+1545,68.0,8899.0,4.5,Hardcore
+1546,68.0,1636.0,4.5,Stag
+1547,416.0,33838.0,5.0,Rize
+1548,416.0,51418.0,5.0,Breaking and Entering
+1549,416.0,26599.0,5.0,Law of Desire
+1550,416.0,6329.0,5.0,Manic
+1551,489.0,48165.0,5.0,The Seventh Continent
+1552,489.0,3656.0,5.0,Lured
+1553,489.0,107516.0,5.0,Punk's Dead: SLC Punk 2
+1554,489.0,52617.0,5.0,Woman on the Beach
+1555,363.0,5427.0,5.0,Caveman
+1556,363.0,5179.0,5.0,Gloria
+1557,363.0,5117.0,5.0,Funny Lady
+1559,307.0,667.0,5.0,Bloodsport II
+1560,307.0,7826.0,5.0,The Secret Life of Walter Mitty
+1561,307.0,8675.0,5.0,The Enemy Below
+1562,307.0,4632.0,5.0,The Package
+1563,146.0,58107.0,5.0,Step Up 2: The Streets
+1564,146.0,1328.0,5.0,The Amityville Curse
+1565,146.0,6154.0,4.75,Deliver Us from Eva
+1566,146.0,6012.0,4.75,A Guy Thing
+1567,378.0,4026.0,4.5,Nowhere to Hide
+1568,378.0,4076.0,4.5,Two Ninas
+1569,378.0,2197.0,4.5,Firelight
+1570,378.0,6531.0,4.5,The Advocate
+1571,210.0,401.0,4.5,Mirage
+1572,210.0,72294.0,4.5,A Christmas Carol
+1574,210.0,146309.0,4.5,The Boy and the Beast
+1576,67.0,1174.0,5.0,Dead Tired
+1577,67.0,1539.0,5.0,Twin Town
+1578,67.0,3567.0,5.0,Bossa Nova
+1579,588.0,162672.0,5.0,Mohenjo Daro
+1580,588.0,77414.0,5.0,The Last Song
+1581,588.0,80858.0,5.0,You Again
+1582,588.0,80717.0,5.0,Dedication
+1583,110.0,80858.0,5.0,You Again
+1584,110.0,4562.0,5.0,Without a Clue
+1585,110.0,1164.0,5.0,2 or 3 Things I Know About Her
+1586,110.0,3217.0,5.0,A Star Is Born
+1587,582.0,285.0,5.0,Beyond Bedlam
+1588,582.0,4067.0,5.0,Untamed Heart
+1589,582.0,47148.0,5.0,Mrs Palfrey at The Claremont
+1590,582.0,3474.0,4.75,Retroactive
+1591,666.0,158956.0,5.0,Kill Command
+1592,666.0,107412.0,5.0,"Kidnapping, Caucasian Style"
+1593,666.0,98615.0,5.0,Burn Up!
+1594,666.0,32554.0,5.0,Memories
+1595,290.0,2062.0,5.000000000000001,The Governess
+1596,290.0,3572.0,5.0,Carnosaur
+1597,290.0,5866.0,5.0,They All Laughed
+1598,290.0,4988.0,5.0,White Water Summer
+1599,493.0,69280.0,5.0,The Clique
+1600,493.0,4067.0,5.0,Untamed Heart
+1601,493.0,39408.0,4.5,Left Behind III: World at War
+1602,493.0,47148.0,4.5,Mrs Palfrey at The Claremont
+1603,613.0,162672.0,5.0,Mohenjo Daro
+1604,613.0,4796.0,5.0,The Grass Is Greener
+1605,613.0,285.0,5.0,Beyond Bedlam
+1607,606.0,2983.0,5.0,The Ipcress File
+1608,606.0,46574.0,5.0,The Oh in Ohio
+1609,606.0,26160.0,5.0,Asterix the Gaul
+1610,606.0,5864.0,5.0,"Tarzan, the Ape Man"
+1611,11.0,2036.0,5.0,Blank Check
+1612,11.0,2704.0,5.0,Les Amants du Pont-Neuf
+1613,11.0,294.0,5.0,The Perez Family
+1614,11.0,101947.0,5.0,U2: From the Sky Down
+1615,424.0,2636.0,4.5,The Mummy's Ghost
+1616,424.0,4560.0,4.5,Watchers
+1617,424.0,2653.0,4.5,Son of Dracula
+1618,424.0,2650.0,4.5,The Ghost of Frankenstein
+1619,328.0,159093.0,4.166666666666667,Now You See Me 2
+1620,328.0,146309.0,4.166666666666667,The Boy and the Beast
+1621,328.0,136016.0,4.166666666666667,The Good Dinosaur
+1622,328.0,1328.0,4.0,The Amityville Curse
+1623,9.0,62115.0,5.0,Six Shooter
+1624,9.0,98615.0,5.0,Burn Up!
+1625,9.0,3568.0,5.0,Smiling Fish & Goat On Fire
+1626,9.0,3710.0,5.0,Action Jackson
+1627,227.0,78034.0,5.000000000000001,Cemetery Junction
+1628,227.0,85025.0,5.000000000000001,The Eagle
+1629,227.0,88785.0,5.000000000000001,The Change-Up
+1630,227.0,6427.0,5.0,The Railway Children
+1631,258.0,87192.0,5.000000000000001,Attack the Block
+1632,258.0,71252.0,5.000000000000001,The Final Destination
+1633,258.0,112911.0,5.000000000000001,Hercules
+1634,258.0,99813.0,5.000000000000001,"Batman: The Dark Knight Returns, Part 2"
+1635,630.0,4300.0,5.0,Bread and Roses
+1636,630.0,2191.0,5.0,Keep the Aspidistra Flying
+1637,630.0,5834.0,5.0,Fingers
+1638,630.0,5832.0,5.0,Left Behind II: Tribulation Force
+1639,349.0,81535.0,5.0,Saw: The Final Chapter
+1640,349.0,136447.0,5.0,George Carlin: You Are All Diseased
+1641,349.0,102792.0,5.0,The Broken Circle Breakdown
+1642,349.0,42163.0,5.0,Richard Pryor: Live in Concert
+1643,440.0,31930.0,5.0,Masculin Féminin
+1644,440.0,8484.0,5.0,The Human Condition I: No Greater Love
+1645,440.0,8765.0,5.0,This Gun for Hire
+1646,440.0,43744.0,5.0,Imagine Me & You
+1647,425.0,156025.0,5.0,Ice Age: The Great Egg-Scapade
+1648,425.0,149830.0,5.0,Pride and Prejudice and Zombies
+1649,425.0,148888.0,5.0,Zoolander 2
+1650,425.0,1881.0,4.75,Quest for Camelot
+1651,594.0,1669.0,5.0,The Tango Lesson
+1652,594.0,84637.0,5.0,Gnomeo & Juliet
+1653,594.0,108514.0,5.0,Yeh Jawaani Hai Deewani
+1654,594.0,3834.0,5.0,Bronco Billy
+1655,182.0,162672.0,5.0,Mohenjo Daro
+1656,182.0,2325.0,5.0,Orgazmo
+1657,182.0,59834.0,5.0,100 Rifles
+1658,182.0,136449.0,5.0,Ghost in the Shell 2.0
+1659,668.0,6370.0,5.000000000000001,The Spanish Apartment
+1660,668.0,39435.0,5.000000000000001,The Legend of Zorro
+1662,668.0,38.0,5.000000000000001,It Takes Two
+1663,398.0,5525.0,5.0,Mostly Martha
+1664,398.0,5840.0,5.0,My Mother's Castle
+1665,398.0,5788.0,5.0,All or Nothing
+1666,398.0,3474.0,5.0,Retroactive
+1667,527.0,58107.0,4.5,Step Up 2: The Streets
+1668,527.0,4493.0,4.333333333333333,Critters 2
+1669,527.0,45000.0,4.25,La Chinoise
+1670,527.0,26150.0,4.25,Andrei Rublev
+1671,222.0,6571.0,5.0,Mondays in the Sun
+1672,222.0,42900.0,5.0,Cul-de-sac
+1673,222.0,8189.0,5.0,Zazie dans le métro
+1674,222.0,116939.0,5.0,Werner - Beinhart!
+1675,560.0,8899.0,5.0,Hardcore
+1676,560.0,8751.0,5.0,Gun Crazy
+1677,560.0,101947.0,5.0,U2: From the Sky Down
+1678,560.0,4067.0,4.666666666666667,Untamed Heart
+1679,592.0,4592.0,5.0,The Experts
+1680,592.0,5685.0,5.0,Real Women Have Curves
+1681,592.0,1571.0,5.0,When the Cat's Away
+1682,592.0,1563.0,5.0,Dream with the Fishes
+1683,118.0,4550.0,5.0,Switching Channels
+1684,118.0,4527.0,5.0,A Night in the Life of Jimmy Reardon
+1685,118.0,50703.0,5.0,The Secret
+1686,118.0,439.0,5.0,Dangerous Game
+1687,145.0,439.0,5.0,Dangerous Game
+1688,145.0,32460.0,5.0,Knockin' on Heaven's Door
+1689,145.0,74156.0,5.0,Edge of Darkness
+1690,145.0,54251.0,5.0,Dorian Blues
+1691,610.0,8453.0,5.0,It Had to Be You
+1692,610.0,53138.0,5.0,The Librarian: Return to King Solomon's Mines
+1693,610.0,27826.0,5.0,Touch of Pink
+1694,610.0,129009.0,5.0,Getting Go: The Go Doc Project
+1695,431.0,5278.0,5.0,Fraternity Vacation
+1696,431.0,7204.0,5.0,Hells Angels on Wheels
+1697,431.0,32153.0,5.0,Once Upon a Forest
+1698,431.0,2191.0,5.0,Keep the Aspidistra Flying
+1699,538.0,84.0,5.0,Last Summer in the Hamptons
+1700,538.0,4375.0,5.0,Funny Felix
+1701,538.0,32025.0,5.0,Walk on Water
+1702,538.0,33838.0,5.0,Rize
+1703,573.0,4772.0,5.0,Dinner Rush
+1704,573.0,6091.0,5.0,Labyrinth of Passion
+1705,573.0,74624.0,5.0,Agora
+1706,573.0,31903.0,5.0,Želary
+1707,520.0,61465.0,4.75,Bangkok Dangerous
+1708,520.0,32153.0,4.75,Once Upon a Forest
+1709,520.0,5117.0,4.75,Funny Lady
+1710,520.0,5278.0,4.75,Fraternity Vacation
+1711,532.0,39427.0,5.0,Stay
+1712,532.0,8915.0,5.0,Stage Beauty
+1713,532.0,50804.0,5.0,Hannibal Rising
+1714,532.0,2481.0,4.5,My Name Is Joe
+1715,233.0,110352.0,5.0,Survival Island
+1716,233.0,105585.0,5.0,Machete Kills
+1717,233.0,56633.0,5.0,Butterfly on a Wheel
+1718,233.0,122888.0,5.0,Ben-Hur
+1719,229.0,26265.0,5.0,Dr. Phibes Rises Again
+1720,229.0,7051.0,5.0,What's New Pussycat?
+1721,229.0,25763.0,5.0,Pandora's Box
+1722,229.0,55417.0,5.0,Irina Palm
+1723,379.0,4593.0,4.5,Family Business
+1724,379.0,109249.0,4.5,The Journey
+1725,379.0,2190.0,4.5,Why Do Fools Fall In Love
+1726,379.0,59834.0,4.5,100 Rifles
+1727,451.0,3780.0,5.0,Rocketship X-M
+1728,451.0,26494.0,5.0,Sugar & Spice
+1729,451.0,93693.0,5.0,Casa De Mi Padre
+1730,451.0,49265.0,5.0,Shooting Dogs
+1731,310.0,59.0,5.0,The Confessional
+1732,310.0,2964.0,5.0,Julien Donkey-Boy
+1733,310.0,5137.0,5.0,Scratch
+1734,310.0,5888.0,5.0,Brother
+1735,244.0,162672.0,5.0,Mohenjo Daro
+1736,244.0,4399.0,5.0,Diary of a Chambermaid
+1737,244.0,4208.0,5.0,Unmade Beds
+1738,244.0,4076.0,5.0,Two Ninas
+1740,74.0,563.0,5.0,Germinal
+1741,74.0,81054.0,5.0,Love Is Colder Than Death
+1742,74.0,4445.0,5.0,T-Rex: Back to the Cretaceous
+1743,197.0,147426.0,5.0,İtirazım Var
+1744,197.0,44197.0,5.0,Find Me Guilty
+1745,197.0,71131.0,5.0,Louis Theroux: The Most Hated Family in America
+1746,197.0,1986.0,5.0,Halloween 5: The Revenge of Michael Myers
+1747,583.0,294.0,5.000000000000001,The Perez Family
+1748,583.0,568.0,5.000000000000001,Bhaji on the Beach
+1749,583.0,1978.0,5.0,Friday the 13th: A New Beginning
+1750,583.0,2613.0,5.0,Night of the Comet
+1751,535.0,7773.0,5.0,Bang Bang You're Dead
+1752,535.0,95567.0,5.0,People Like Us
+1753,535.0,7453.0,5.0,New York Minute
+1754,535.0,90576.0,5.0,What's Your Number?
+1755,267.0,3768.0,5.0,Braddock: Missing in Action III
+1756,267.0,2325.0,5.0,Orgazmo
+1757,267.0,149830.0,5.0,Pride and Prejudice and Zombies
+1758,267.0,148888.0,5.0,Zoolander 2
+1759,621.0,6769.0,5.0,Mambo Italiano
+1760,621.0,50804.0,5.0,Hannibal Rising
+1761,621.0,31524.0,5.0,The Bitter Tears of Petra von Kant
+1762,621.0,8453.0,5.0,It Had to Be You
+1763,81.0,4539.0,5.0,Salsa
+1764,81.0,55417.0,5.0,Irina Palm
+1765,81.0,5788.0,5.0,All or Nothing
+1766,81.0,5958.0,5.0,The Wild Thornberrys Movie
+1767,335.0,53460.0,4.5,Surf's Up
+1768,335.0,48414.0,4.5,Open Season
+1769,335.0,65037.0,4.5,Ben X
+1770,335.0,31921.0,4.5,The Seven-Per-Cent Solution
+1771,84.0,336.0,4.5,The Walking Dead
+1772,84.0,50804.0,4.375,Hannibal Rising
+1773,84.0,8915.0,4.333333333333333,Stage Beauty
+1774,84.0,127098.0,4.333333333333333,Louis C.K.: Live at The Comedy Store
+1775,208.0,8915.0,5.0,Stage Beauty
+1776,208.0,6261.0,5.0,Wind
+1777,208.0,50804.0,5.0,Hannibal Rising
+1778,208.0,2486.0,5.0,The 24 Hour Woman
+1779,131.0,162672.0,5.0,Mohenjo Daro
+1780,131.0,3710.0,5.0,Action Jackson
+1781,131.0,756.0,5.0,Carmen Miranda: Bananas Is My Business
+1782,131.0,104337.0,5.0,The Butler
+1783,414.0,61465.0,5.0,Bangkok Dangerous
+1784,414.0,5278.0,5.0,Fraternity Vacation
+1785,414.0,5832.0,5.0,Left Behind II: Tribulation Force
+1786,414.0,5613.0,5.0,8 Women
+1787,33.0,401.0,5.0,Mirage
+1788,33.0,4067.0,4.25,Untamed Heart
+1789,33.0,118105.0,4.2,Trailer Park Boys: Live at the North Pole
+1790,33.0,2284.0,4.125,Bandit Queen
+1791,172.0,25763.0,5.0,Pandora's Box
+1792,172.0,4131.0,5.0,Making Mr. Right
+1793,172.0,4605.0,5.0,How to Get Ahead in Advertising
+1794,172.0,4592.0,5.0,The Experts
+1795,483.0,3710.0,5.0,Action Jackson
+1796,483.0,25763.0,5.0,Pandora's Box
+1797,483.0,7051.0,5.0,What's New Pussycat?
+1798,483.0,26265.0,5.0,Dr. Phibes Rises Again
+1799,651.0,162672.0,5.0,Mohenjo Daro
+1800,651.0,59985.0,5.0,Chaos Theory
+1801,651.0,4466.0,5.0,Above the Law
+1802,651.0,582.0,5.0,Café au Lait
+1803,642.0,75983.0,5.0,North Face
+1804,642.0,42013.0,5.0,The Ringer
+1805,642.0,4632.0,5.0,The Package
+1806,642.0,43679.0,5.0,Final Destination 3
+1807,70.0,2008.0,5.0,"This World, Then the Fireworks"
+1808,70.0,3303.0,5.0,Black Tar Heroin: The Dark End of the Street
+1809,70.0,4988.0,5.0,White Water Summer
+1810,70.0,573.0,5.0,"Ciao, Professore!"
+1811,361.0,162672.0,5.0,Mohenjo Daro
+1812,361.0,5333.0,5.0,Bob le Flambeur
+1813,361.0,84637.0,5.0,Gnomeo & Juliet
+1814,361.0,88179.0,5.0,One Day
+1815,572.0,101947.0,4.6,U2: From the Sky Down
+1816,572.0,4753.0,4.5,Vamp
+1817,572.0,1881.0,4.5,Quest for Camelot
+1818,572.0,4559.0,4.5,Vice Versa
+1819,644.0,7820.0,5.0,The Virgin Spring
+1820,644.0,68967.0,5.0,Summer Hours
+1821,644.0,26578.0,5.0,The Sacrifice
+1822,644.0,698.0,5.0,Delta of Venus
+1823,69.0,3886.0,5.0,Steal This Movie
+1824,69.0,8915.0,5.0,Stage Beauty
+1825,69.0,4131.0,5.0,Making Mr. Right
+1826,69.0,44225.0,5.0,Aquamarine
+1827,40.0,59549.0,5.0,Shelter
+1828,40.0,146501.0,5.0,Land of Storms
+1829,40.0,140751.0,5.0,Almost Normal
+1830,40.0,140755.0,5.0,Long-Term Relationship
+1831,174.0,438.0,4.5,The Cowboy Way
+1832,174.0,88272.0,4.5,The Woman
+1833,174.0,90357.0,4.5,Tyrannosaur
+1834,174.0,6940.0,4.5,In My Skin
+1835,43.0,45969.0,5.0,Career Opportunities
+1836,43.0,2776.0,5.0,Marcello Mastroianni: I Remember
+1837,43.0,104590.0,5.0,Tidal Wave
+1838,43.0,104925.0,5.0,The Family
+1839,49.0,59.0,5.0,The Confessional
+1840,49.0,99615.0,5.0,Role/Play
+1841,49.0,85612.0,5.0,Eden
+1842,49.0,4766.0,5.0,Our Lady of the Assassins
+1843,286.0,33145.0,5.000000000000001,A Lot Like Love
+1844,286.0,5365.0,5.000000000000001,The Lady and the Duke
+1845,286.0,26695.0,5.0,The Krays
+1846,286.0,26663.0,5.0,Monsieur Hire
+1847,52.0,80858.0,5.0,You Again
+1848,52.0,110873.0,5.0,The 100 Year-Old Man Who Climbed Out the Window and Disappeared
+1849,52.0,5864.0,5.0,"Tarzan, the Ape Man"
+1850,52.0,5834.0,5.0,Fingers
+1851,557.0,132952.0,4.5,Sarfarosh
+1852,557.0,702.0,4.0,Faces
+1853,557.0,76111.0,4.0,About Elly
+1854,557.0,96832.0,4.0,Holy Motors
+1855,392.0,159093.0,4.5,Now You See Me 2
+1856,392.0,146309.0,4.5,The Boy and the Beast
+1857,392.0,107083.0,4.5,Geography Club
+1858,392.0,107516.0,4.5,Punk's Dead: SLC Punk 2
+1859,140.0,26701.0,5.0,Patlabor: The Movie
+1860,140.0,6027.0,5.0,Dogfight
+1861,140.0,8765.0,5.0,This Gun for Hire
+1862,140.0,8629.0,5.0,The Book of Life
+1863,121.0,60857.0,5.0,The Tracey Fragments
+1864,121.0,78316.0,5.0,Letters to Juliet
+1865,121.0,2849.0,5.0,Queens Logic
+1866,121.0,62115.0,5.0,Six Shooter
+1867,251.0,2998.0,5.0,Dreaming of Joseph Lees
+1868,251.0,3886.0,5.0,Steal This Movie
+1869,251.0,8629.0,5.0,The Book of Life
+1870,251.0,3879.0,5.0,The Art of War
+1871,604.0,130490.0,5.0,Insurgent
+1872,604.0,245.0,5.0,The Glass Shield
+1873,604.0,896.0,5.0,Wild Reeds
+1874,604.0,5888.0,5.0,Brother
+1875,595.0,72612.0,5.0,The Fly
+1876,595.0,1733.0,5.0,Afterglow
+1877,595.0,573.0,5.0,"Ciao, Professore!"
+1878,595.0,8915.0,5.0,Stage Beauty
+1879,551.0,3768.0,4.5,Braddock: Missing in Action III
+1880,551.0,4945.0,4.5,The Enforcer
+1881,551.0,846.0,4.5,Flirt
+1882,551.0,3116.0,4.5,Miss Julie
+1883,543.0,3158.0,5.000000000000001,The Emperor and the Assassin
+1884,543.0,3470.0,5.000000000000001,Dersu Uzala
+1885,543.0,3903.0,5.000000000000001,Urbania
+1886,543.0,47491.0,5.000000000000001,Adam's Apples
+1887,590.0,6509.0,5.0,Ali: Fear Eats the Soul
+1888,590.0,4470.0,5.0,Ariel
+1889,590.0,91548.0,5.0,Life in a Day
+1890,590.0,8765.0,5.0,This Gun for Hire
+1891,327.0,7051.0,5.0,What's New Pussycat?
+1892,327.0,5224.0,5.0,Promises
+1893,327.0,191.0,5.0,The Scarlet Letter
+1894,327.0,121126.0,5.0,The Car
+1895,511.0,2767.0,5.0,Illuminata
+1896,511.0,7055.0,5.0,Ghosts of Mars
+1897,511.0,4300.0,5.0,Bread and Roses
+1898,511.0,48165.0,5.0,The Seventh Continent
+1899,276.0,148652.0,4.5,The Ridiculous 6
+1900,276.0,2849.0,4.5,Queens Logic
+1901,276.0,4745.0,4.5,O
+1902,276.0,5612.0,4.5,Trapped
+1903,632.0,4399.0,5.0,Diary of a Chambermaid
+1904,632.0,5873.0,5.0,The Emperor's Club
+1905,632.0,1328.0,5.0,The Amityville Curse
+1906,632.0,26564.0,5.0,’Round Midnight
+1907,113.0,5480.0,5.000000000000001,Stuart Little 2
+1908,113.0,7316.0,5.000000000000001,Confessions of a Teenage Drama Queen
+1909,113.0,56171.0,5.000000000000001,The Golden Compass
+1910,113.0,97593.0,5.0,Tony
+1911,288.0,26326.0,5.000000000000001,The Holy Mountain
+1912,288.0,4592.0,5.0,The Experts
+1913,288.0,106540.0,5.0,Delivery Man
+1914,288.0,4208.0,5.0,Unmade Beds
+1915,249.0,162672.0,5.0,Mohenjo Daro
+1916,249.0,4584.0,5.0,Dream a Little Dream
+1917,249.0,59985.0,5.0,Chaos Theory
+1918,249.0,55100.0,5.0,I Could Never Be Your Woman
+1919,351.0,301.0,5.0,Picture Bride
+1920,351.0,26686.0,5.0,Ghost Dad
+1921,351.0,64695.0,5.0,Sword of the Stranger
+1922,351.0,32469.0,5.0,We're No Angels
+1923,357.0,77798.0,5.0,A Nightmare on Elm Street
+1924,357.0,8670.0,5.0,The Testament of Dr. Mabuse
+1925,357.0,32170.0,5.0,Chronicles
+1926,357.0,4459.0,5.0,Alaska: Spirit of the Wild
+1927,302.0,84.0,5.0,Last Summer in the Hamptons
+1928,302.0,8915.0,5.0,Stage Beauty
+1929,302.0,5224.0,5.0,Promises
+1930,302.0,5236.0,5.0,A Tale of Springtime
+1931,186.0,2032.0,5.0,The Barefoot Executive
+1932,186.0,7204.0,5.0,Hells Angels on Wheels
+1933,186.0,1807.0,5.0,"A Cool, Dry Place"
+1934,186.0,1806.0,5.0,Paulie
+1935,12.0,71810.0,5.0,Legionnaire
+1936,12.0,4466.0,5.0,Above the Law
+1937,12.0,118105.0,5.0,Trailer Park Boys: Live at the North Pole
+1938,12.0,74688.0,5.0,Dear John
+1939,171.0,98913.0,5.0,Violeta Went to Heaven
+1940,171.0,7456.0,5.0,Valentin
+1941,171.0,1669.0,5.0,The Tango Lesson
+1942,171.0,8765.0,5.0,This Gun for Hire
+1943,473.0,2892.0,5.000000000000001,New Rose Hotel
+1944,473.0,50804.0,5.000000000000001,Hannibal Rising
+1945,473.0,98126.0,5.0,Capital
+1946,473.0,45000.0,5.0,La Chinoise
+1947,269.0,4632.0,5.0,The Package
+1948,269.0,957.0,5.0,The Scarlet Letter
+1949,269.0,4300.0,5.0,Bread and Roses
+1950,269.0,4000.0,5.0,The Bounty
+1951,218.0,690.0,5.0,The Promise
+1952,218.0,573.0,5.0,"Ciao, Professore!"
+1953,218.0,559.0,5.0,"Paris, France"
+1954,218.0,1174.0,5.0,Dead Tired
+1955,123.0,4445.0,5.0,T-Rex: Back to the Cretaceous
+1956,123.0,5413.0,5.0,Zombie Holocaust
+1957,123.0,5117.0,5.0,Funny Lady
+1958,123.0,1311.0,5.0,Santa with Muscles
+1959,122.0,872.0,4.0,Vive L'Amour
+1960,122.0,98604.0,4.0,From Up on Poppy Hill
+1961,122.0,47148.0,4.0,Mrs Palfrey at The Claremont
+1962,122.0,48165.0,4.0,The Seventh Continent
+1963,634.0,32525.0,5.000000000000001,The Earrings of Madame de...
+1964,634.0,50703.0,5.0,The Secret
+1965,634.0,47148.0,5.0,Mrs Palfrey at The Claremont
+1966,634.0,47491.0,5.0,Adam's Apples
+1967,24.0,32554.0,5.0,Memories
+1968,24.0,118468.0,5.0,Mei and the Kittenbus
+1969,24.0,104283.0,5.0,The Wind Rises
+1970,24.0,4560.0,5.0,Watchers
+1971,662.0,106471.0,5.0,One Piece Film Strong World
+1972,662.0,107081.0,5.0,Zatôichi on the Road
+1973,662.0,8765.0,5.0,This Gun for Hire
+1974,662.0,50804.0,5.0,Hannibal Rising
+1975,190.0,81786.0,5.000000000000001,Certified Copy
+1976,190.0,100843.0,5.0,A Coffee in Berlin
+1977,190.0,92424.0,5.0,Dottie Gets Spanked
+1978,190.0,79469.0,5.0,The Northerners
+1979,650.0,96490.0,5.0,The Possession
+1980,650.0,98913.0,5.0,Violeta Went to Heaven
+1981,650.0,5243.0,5.0,The Young Master
+1982,650.0,99470.0,5.0,The Collection
+1983,645.0,41912.0,5.0,Slim Susie
+1984,645.0,48856.0,5.0,A Guide To Recognizing Your Saints
+1985,645.0,27875.0,5.0,Redemption: The Stan Tookie Williams Story
+1986,645.0,4151.0,5.0,The Taste of Others
+1987,181.0,2998.0,5.0,Dreaming of Joseph Lees
+1988,181.0,68967.0,5.0,Summer Hours
+1989,181.0,64321.0,5.0,A Friend of Mine
+1990,181.0,2630.0,5.0,Besieged
+1991,333.0,7051.0,5.0,What's New Pussycat?
+1992,333.0,134246.0,5.0,Survivor
+1993,333.0,4923.0,5.0,Guadalcanal Diary
+1994,333.0,4842.0,5.0,The Dogs of War
+1995,53.0,84.0,5.0,Last Summer in the Hamptons
+1996,53.0,6628.0,5.0,Hot Dog... The Movie
+1997,53.0,2630.0,5.0,Besieged
+1998,53.0,1163.0,5.0,Mina Tannenbaum
+1999,589.0,4561.0,5.0,Waxwork
+2000,589.0,79469.0,5.0,The Northerners
+2001,589.0,80717.0,5.0,Dedication
+2002,589.0,4560.0,5.0,Watchers
+2003,209.0,167.0,4.0,Feast of July
+2004,209.0,70994.0,4.0,Halloween II
+2005,209.0,72947.0,4.0,Make the Yuletide Gay
+2006,209.0,72380.0,4.0,The Box
+2007,117.0,62115.0,5.0,Six Shooter
+2008,117.0,52528.0,5.0,Tristana
+2009,117.0,48165.0,5.0,The Seventh Continent
+2010,117.0,48061.0,5.0,"Snoopy, Come Home"
+2011,649.0,45000.0,5.0,La Chinoise
+2012,649.0,4026.0,5.0,Nowhere to Hide
+2013,649.0,4772.0,5.0,Dinner Rush
+2014,649.0,68967.0,5.0,Summer Hours
+2015,265.0,6425.0,5.0,The Sixth Man
+2016,265.0,26265.0,5.0,Dr. Phibes Rises Again
+2017,265.0,70121.0,5.0,'Neath the Arizona Skies
+2018,265.0,25763.0,5.0,Pandora's Box
+2019,420.0,48165.0,5.0,The Seventh Continent
+2020,420.0,5864.0,5.0,"Tarzan, the Ape Man"
+2021,420.0,99615.0,5.0,Role/Play
+2022,420.0,100017.0,5.0,Keep the Lights On
+2023,453.0,143859.0,5.0,"Hail, Caesar!"
+2024,453.0,91548.0,5.0,Life in a Day
+2025,453.0,51094.0,5.0,Gray Matters
+2026,453.0,8918.0,5.0,Eulogy
+2027,101.0,58107.0,5.0,Step Up 2: The Streets
+2028,101.0,5613.0,5.0,8 Women
+2029,101.0,111913.0,5.0,Lilting
+2030,101.0,60857.0,5.0,The Tracey Fragments
+2031,376.0,148888.0,5.0,Zoolander 2
+2032,376.0,71390.0,5.0,Not Quite Hollywood
+2033,376.0,27792.0,5.0,The Saddest Music in the World
+2034,376.0,2892.0,5.0,New Rose Hotel
+2035,18.0,26294.0,4.333333333333333,My Name Is Nobody
+2036,18.0,84844.0,4.023174120513363,Brother 2
+2037,18.0,4278.0,4.019513566168319,Triumph of the Will
+2038,18.0,27728.0,4.004462223648579,Ghost in the Shell 2: Innocence
+2039,552.0,47465.0,5.0,Tideland
+2040,552.0,8872.0,5.0,A Dirty Shame
+2041,552.0,60384.0,5.0,Z Channel: A Magnificent Obsession
+2042,552.0,59834.0,5.0,100 Rifles
+2043,27.0,1881.0,5.0,Quest for Camelot
+2044,27.0,4836.0,5.0,The Competition
+2045,27.0,4804.0,5.0,Pocketful of Miracles
+2046,27.0,2400.0,5.0,Prancer
+2047,355.0,6425.0,5.0,The Sixth Man
+2048,355.0,8133.0,5.0,The Inheritance
+2049,355.0,58107.0,4.875,Step Up 2: The Streets
+2050,355.0,2438.0,4.75,Outside Ozona
+2051,166.0,4470.0,5.0,Ariel
+2052,166.0,78836.0,5.0,Enter the Void
+2053,166.0,563.0,5.0,Germinal
+2054,166.0,45000.0,5.0,La Chinoise
+2055,272.0,88932.0,4.625,Final Destination 5
+2056,272.0,110873.0,4.625,The 100 Year-Old Man Who Climbed Out the Window and Disappeared
+2057,272.0,109742.0,4.625,Cheap Thrills
+2058,272.0,92954.0,4.625,Prayers for Bobby
+2059,540.0,26701.0,5.0,Patlabor: The Movie
+2060,540.0,26695.0,5.0,The Krays
+2061,540.0,26188.0,5.0,The Heart Is a Lonely Hunter
+2062,540.0,26228.0,5.0,A Swedish Love Story
+2063,539.0,4988.0,5.0,White Water Summer
+2064,539.0,3572.0,5.0,Carnosaur
+2065,539.0,3568.0,5.0,Smiling Fish & Goat On Fire
+2066,539.0,2975.0,5.0,The Best Man
+2067,525.0,6012.0,5.0,A Guy Thing
+2068,525.0,4796.0,5.0,The Grass Is Greener
+2069,525.0,2869.0,5.0,La séparation
+2070,525.0,3434.0,5.0,Death Wish 5: The Face of Death
+2071,530.0,3158.0,5.000000000000001,The Emperor and the Assassin
+2072,530.0,52694.0,5.000000000000001,Mr. Bean's Holiday
+2073,530.0,74727.0,5.000000000000001,Gentlemen of Fortune
+2074,530.0,4680.0,5.0,Vampire's Kiss
+2075,155.0,7349.0,5.0,Broken Wings
+2076,155.0,72294.0,5.0,A Christmas Carol
+2077,155.0,4538.0,5.0,Salome's Last Dance
+2078,155.0,5788.0,5.0,All or Nothing
+2079,4.0,111235.0,5.0,Jodorowsky's Dune
+2080,4.0,26094.0,5.0,L'eclisse
+2081,4.0,55498.0,5.0,Silk
+2082,4.0,68872.0,5.0,Paisan
+2083,296.0,103659.0,5.0,Justice League: The Flashpoint Paradox
+2084,296.0,59731.0,5.0,Bigger Stronger Faster*
+2085,296.0,27869.0,5.0,Tae Guk Gi: The Brotherhood of War
+2086,296.0,2486.0,5.0,The 24 Hour Woman
+2087,469.0,27751.0,5.0,Salem's Lot
+2088,469.0,2981.0,5.0,Brother Can You Spare A Dime
+2089,469.0,82167.0,5.0,Love & Other Drugs
+2090,469.0,82463.0,5.0,Another Year
+2091,202.0,1067.0,5.0,A Damsel in Distress
+2092,202.0,3780.0,5.0,Rocketship X-M
+2093,202.0,3474.0,5.0,Retroactive
+2094,202.0,3879.0,5.0,The Art of War
+2095,20.0,3434.0,5.0,Death Wish 5: The Face of Death
+2096,20.0,47148.0,4.5,Mrs Palfrey at The Claremont
+2097,20.0,84847.0,4.5,Emma
+2098,20.0,26160.0,4.5,Asterix the Gaul
+2099,241.0,401.0,4.0,Mirage
+2100,241.0,40491.0,4.0,The Match Factory Girl
+2101,241.0,60857.0,4.0,The Tracey Fragments
+2102,241.0,59834.0,4.0,100 Rifles
+2103,403.0,45000.0,5.0,La Chinoise
+2104,403.0,80717.0,5.0,Dedication
+2105,403.0,129313.0,5.0,Reality
+2107,643.0,2676.0,5.000000000000001,Instinct
+2108,643.0,3643.0,5.000000000000001,The Fighting Seabees
+2109,643.0,103.0,5.000000000000001,Unforgettable
+2110,643.0,4046.0,5.000000000000001,Friendly Persuasion
+2111,444.0,4849.0,5.0,My First Mister
+2112,444.0,74946.0,5.0,She's Out of My League
+2113,444.0,5613.0,5.0,8 Women
+2114,444.0,1807.0,5.0,"A Cool, Dry Place"
+2115,516.0,6425.0,5.0,The Sixth Man
+2116,516.0,4208.0,5.0,Unmade Beds
+2118,516.0,4796.0,5.0,The Grass Is Greener
+2119,163.0,8765.0,5.0,This Gun for Hire
+2120,163.0,47148.0,5.0,Mrs Palfrey at The Claremont
+2121,163.0,8629.0,5.0,The Book of Life
+2122,163.0,6027.0,5.0,Dogfight
+2123,66.0,162672.0,5.0,Mohenjo Daro
+2124,66.0,136447.0,5.0,George Carlin: You Are All Diseased
+2125,66.0,48501.0,5.0,G.O.R.A.
+2126,66.0,46574.0,5.0,The Oh in Ohio
+2127,156.0,132952.0,5.0,Sarfarosh
+2128,156.0,27255.0,5.0,The Wind Will Carry Us
+2129,156.0,59945.0,5.0,The Mark of Zorro
+2130,156.0,55555.0,5.0,The Edge of Heaven
+2132,482.0,62331.0,5.0,Dead Leaves
+2133,482.0,3845.0,5.0,...And God Created Woman
+2134,482.0,3834.0,5.0,Bronco Billy
+2135,611.0,3715.0,5.000000000000001,Burglar
+2136,611.0,3739.0,5.0,Trouble in Paradise
+2137,611.0,26788.0,5.0,The Story of Qiu Ju
+2138,611.0,3599.0,5.0,Anchors Aweigh
+2139,329.0,6040.0,5.000000000000001,Darkness Falls
+2140,329.0,26693.0,5.0,"Doctor Who: The Doctor, the Widow and the Wardrobe"
+2141,329.0,5046.0,5.0,Impostor
+2142,329.0,111486.0,5.0,Lesson of the Evil
+2143,341.0,104881.0,5.0,Out of the Furnace
+2144,341.0,73808.0,5.0,The Chaser
+2145,341.0,8012.0,5.0,Kikujiro
+2146,341.0,5302.0,5.0,Breakout
+2147,64.0,32525.0,5.000000000000001,The Earrings of Madame de...
+2148,64.0,3158.0,5.000000000000001,The Emperor and the Assassin
+2149,64.0,6322.0,5.000000000000001,Confidence
+2150,64.0,4768.0,5.000000000000001,"Dr. Mabuse, the Gambler"
+2151,591.0,64278.0,4.5,The Pervert's Guide to Cinema
+2152,591.0,86817.0,4.5,Something Borrowed
+2153,591.0,85394.0,4.5,Cave of Forgotten Dreams
+2154,591.0,84637.0,4.5,Gnomeo & Juliet
+2155,635.0,4964.0,5.0,Baran
+2156,635.0,57792.0,5.0,Caramel
+2157,635.0,6571.0,5.0,Mondays in the Sun
+2158,635.0,7349.0,5.0,Broken Wings
+2159,447.0,159093.0,5.0,Now You See Me 2
+2160,447.0,146309.0,5.0,The Boy and the Beast
+2161,447.0,136016.0,5.0,The Good Dinosaur
+2162,447.0,4143.0,5.0,Valentine
+2163,396.0,5427.0,5.0,Caveman
+2164,396.0,5527.0,5.0,Possession
+2165,396.0,2767.0,5.0,Illuminata
+2166,396.0,2869.0,5.0,La séparation
+2167,305.0,3217.0,5.0,A Star Is Born
+2168,305.0,3737.0,5.0,Lonely Are the Brave
+2169,305.0,3522.0,5.0,Sacco & Vanzetti
+2170,305.0,3446.0,5.0,Funny Bones
+2171,211.0,2573.0,5.0,Tango
+2172,211.0,130580.0,5.0,The Disappearance of Eleanor Rigby: Her
+2173,211.0,92938.0,5.0,Ghost Rider: Spirit of Vengeance
+2174,211.0,2839.0,5.0,West Beyrouth
+2175,566.0,34321.0,5.000000000000001,Bad News Bears
+2176,566.0,944.0,5.000000000000001,Lost Horizon
+2177,566.0,2970.0,5.000000000000001,Fitzcarraldo
+2178,566.0,37.0,5.000000000000001,Across the Sea of Time
+2179,639.0,52528.0,5.0,Tristana
+2180,639.0,4772.0,5.0,Dinner Rush
+2181,639.0,3637.0,5.0,Vagabond
+2182,639.0,7564.0,5.0,Kwaidan
+2183,71.0,3816.0,5.000000000000001,The Official Story
+2185,71.0,4144.0,5.000000000000001,In the Mood for Love
+2186,71.0,26150.0,5.0,Andrei Rublev
+2187,404.0,3643.0,5.000000000000001,The Fighting Seabees
+2188,404.0,2874.0,5.0,The Pajama Game
+2189,404.0,39052.0,5.0,Star Wreck: In the Pirkinning
+2190,404.0,44301.0,5.0,Lights in the Dusk
+2191,512.0,3678.0,5.000000000000001,The Man with the Golden Arm
+2192,512.0,3158.0,5.000000000000001,The Emperor and the Assassin
+2193,512.0,3572.0,5.0,Carnosaur
+2194,512.0,3848.0,5.0,Silent Fall
+2195,322.0,109359.0,5.0,Gerontophilia
+2196,322.0,2284.0,5.0,Bandit Queen
+2197,322.0,129313.0,5.0,Reality
+2198,322.0,129009.0,5.0,Getting Go: The Go Doc Project
+2199,317.0,1328.0,5.0,The Amityville Curse
+2200,317.0,3934.0,5.0,Kronos
+2201,317.0,7379.0,5.0,The Alamo
+2202,317.0,1756.0,5.0,The Prophecy II
+2203,625.0,69280.0,5.0,The Clique
+2204,625.0,47148.0,5.0,Mrs Palfrey at The Claremont
+2205,625.0,136016.0,4.833333333333333,The Good Dinosaur
+2206,625.0,159093.0,4.833333333333333,Now You See Me 2
+2207,316.0,27186.0,4.25,Kirikou and the Sorceress
+2208,316.0,148888.0,4.083333333333333,Zoolander 2
+2209,316.0,149830.0,4.083333333333333,Pride and Prejudice and Zombies
+2210,316.0,156025.0,4.083333333333333,Ice Age: The Great Egg-Scapade
+2211,135.0,2557.0,5.000000000000001,I Stand Alone
+2212,135.0,96606.0,5.000000000000001,Samsara
+2213,135.0,53.0,5.0,Lamerica
+2214,135.0,62203.0,5.0,Martyrs
+2215,421.0,872.0,5.0,Vive L'Amour
+2216,421.0,52528.0,5.0,Tristana
+2217,421.0,79469.0,5.0,The Northerners
+2218,421.0,6509.0,5.0,Ali: Fear Eats the Soul
+2219,499.0,8327.0,5.000000000000001,Dolls
+2220,499.0,4928.0,5.000000000000001,That Obscure Object of Desire
+2221,499.0,62644.0,5.000000000000001,The Wave
+2222,499.0,8273.0,5.0,Jamon Jamon
+2223,348.0,162672.0,5.0,Mohenjo Daro
+2224,348.0,4067.0,5.0,Untamed Heart
+2225,348.0,3775.0,5.0,Make Mine Music
+2226,348.0,25971.0,5.0,Carrie
+2227,115.0,781.0,5.000000000000001,Stealing Beauty
+2228,115.0,7211.0,5.0,People Will Talk
+2229,115.0,4445.0,5.0,T-Rex: Back to the Cretaceous
+2230,115.0,59834.0,5.0,100 Rifles
+2231,616.0,74688.0,5.000000000000001,Dear John
+2232,616.0,8675.0,5.0,The Enemy Below
+2233,616.0,6219.0,5.0,The Hunted
+2234,616.0,6518.0,5.0,Flight of the Intruder
+2235,536.0,80858.0,5.0,You Again
+2236,536.0,82931.0,5.0,The Last Circus
+2237,536.0,81132.0,5.0,Rubber
+2238,536.0,81535.0,5.0,Saw: The Final Chapter
+2239,136.0,69516.0,5.0,The Limits of Control
+2240,136.0,81054.0,5.0,Love Is Colder Than Death
+2241,136.0,4470.0,5.0,Ariel
+2242,136.0,84847.0,5.0,Emma
+2243,153.0,63836.0,5.0,The Manson Family
+2244,153.0,135266.0,5.0,Zenon: The Zequel
+2245,153.0,2892.0,5.0,New Rose Hotel
+2246,153.0,134246.0,5.0,Survivor
+2247,476.0,2897.0,5.0,And the Ship Sails On
+2248,476.0,58107.0,5.0,Step Up 2: The Streets
+2249,476.0,6027.0,5.0,Dogfight
+2250,476.0,26151.0,5.0,Au Hasard Balthazar
+2251,237.0,61236.0,5.0,Waltz with Bashir
+2252,237.0,62331.0,5.0,Dead Leaves
+2253,237.0,3879.0,5.0,The Art of War
+2254,237.0,3780.0,5.0,Rocketship X-M
+2255,429.0,83.0,4.0,Once Upon a Time... When We Were Colored
+2256,429.0,6429.0,4.0,Winchester '73
+2257,429.0,6227.0,4.0,Loving You
+2258,429.0,6276.0,4.0,Wake of the Red Witch
+2259,62.0,4988.0,5.0,White Water Summer
+2260,62.0,69280.0,5.0,The Clique
+2261,62.0,3474.0,5.0,Retroactive
+2262,62.0,4622.0,5.0,Loverboy
+2263,393.0,764.0,4.5,Heavy
+2264,393.0,121618.0,4.5,Silent Souls
+2265,393.0,43744.0,4.5,Imagine Me & You
+2266,393.0,5888.0,4.5,Brother
+2267,98.0,55732.0,5.0,Martian Child
+2268,98.0,146309.0,5.0,The Boy and the Beast
+2269,98.0,26160.0,5.0,Asterix the Gaul
+2270,98.0,44197.0,5.0,Find Me Guilty
+2271,325.0,5796.0,4.5,Casino Royale
+2272,325.0,7586.0,4.5,Soldier of Orange
+2273,325.0,5873.0,4.5,The Emperor's Club
+2274,325.0,5949.0,4.5,Intacto
+2275,658.0,5834.0,5.0,Fingers
+2276,658.0,103444.0,5.0,Woody Allen: A Documentary
+2277,658.0,3834.0,5.0,Bronco Billy
+2278,658.0,27186.0,5.0,Kirikou and the Sorceress
+2279,44.0,7050.0,5.0,Follow the Fleet
+2280,44.0,3207.0,5.0,The Snows of Kilimanjaro
+2281,44.0,5333.0,5.0,Bob le Flambeur
+2282,44.0,7211.0,5.0,People Will Talk
+2283,279.0,26318.0,5.0,The Phantom of Liberty
+2284,279.0,107314.0,5.0,Oldboy
+2285,279.0,52617.0,5.0,Woman on the Beach
+2286,279.0,3415.0,5.0,Mirror
+2287,372.0,55167.0,5.0,Tekkonkinkreet
+2288,372.0,89761.0,5.0,A Dangerous Method
+2289,372.0,1986.0,5.0,Halloween 5: The Revenge of Michael Myers
+2290,372.0,26393.0,5.0,Sorcerer
+2291,204.0,4796.0,4.75,The Grass Is Greener
+2292,204.0,1571.0,4.75,When the Cat's Away
+2293,204.0,4592.0,4.75,The Experts
+2294,204.0,1164.0,4.75,2 or 3 Things I Know About Her
+2295,494.0,439.0,5.0,Dangerous Game
+2296,494.0,4559.0,5.0,Vice Versa
+2297,494.0,4550.0,5.0,Switching Channels
+2298,494.0,4000.0,5.0,The Bounty
+2299,485.0,161944.0,4.5,The Last Brickmaker in America
+2300,485.0,3985.0,4.5,The Eagle Has Landed
+2301,485.0,106011.0,4.5,The Blue Umbrella
+2302,485.0,3870.0,4.5,Our Town
+2303,332.0,7919.0,5.0,Drunken Angel
+2304,332.0,5684.0,5.0,Naqoyqatsi
+2305,332.0,64695.0,5.0,Sword of the Stranger
+2306,332.0,64114.0,5.0,Fireproof
+2307,356.0,161944.0,5.0,The Last Brickmaker in America
+2308,356.0,99415.0,5.0,Parental Guidance
+2309,356.0,98230.0,5.0,10 Years
+2310,356.0,98491.0,5.0,Paperman
+2311,326.0,130960.0,5.0,The Conrad Boys
+2312,326.0,3885.0,5.0,Love & Sex
+2313,326.0,127728.0,5.0,Back Soon
+2314,326.0,129009.0,5.0,Getting Go: The Go Doc Project
+2315,168.0,8915.0,5.0,Stage Beauty
+2316,168.0,39427.0,5.0,Stay
+2317,168.0,3434.0,5.0,Death Wish 5: The Face of Death
+2318,168.0,1174.0,5.0,Dead Tired
+2319,389.0,64695.0,5.0,Sword of the Stranger
+2320,389.0,146309.0,5.0,The Boy and the Beast
+2321,389.0,110586.0,5.0,Calvary
+2322,389.0,5101.0,5.0,Richard Pryor: Here and Now
+2323,435.0,2653.0,5.0,Son of Dracula
+2324,435.0,2767.0,5.0,Illuminata
+2325,435.0,2649.0,5.0,Son of Frankenstein
+2326,435.0,2650.0,5.0,The Ghost of Frankenstein
+2327,542.0,3349.0,5.0,The Perils of Pauline
+2328,542.0,4559.0,5.0,Vice Versa
+2329,542.0,5083.0,5.0,Rare Birds
+2330,542.0,1636.0,5.0,Stag
+2331,162.0,3903.0,5.000000000000001,Urbania
+2332,162.0,160590.0,5.0,Survive and Advance
+2333,162.0,7624.0,5.0,School Ties
+2334,162.0,67957.0,5.0,Superstar: The Karen Carpenter Story
+2335,663.0,7947.0,4.1,Under the Volcano
+2336,663.0,7460.0,4.1,Coffee and Cigarettes
+2337,663.0,7206.0,4.1,Mon oncle
+2338,663.0,144976.0,4.1,Bone Tomahawk
+2339,436.0,95199.0,5.0,What to Expect When You're Expecting
+2340,436.0,781.0,5.0,Stealing Beauty
+2341,436.0,30883.0,5.0,Fat Albert
+2342,436.0,5203.0,5.0,The Monster Club
+2343,415.0,3158.0,5.000000000000001,The Emperor and the Assassin
+2344,415.0,3816.0,5.0,The Official Story
+2345,415.0,80717.0,5.0,Dedication
+2346,415.0,81132.0,5.0,Rubber
+2347,410.0,26318.0,5.0,The Phantom of Liberty
+2348,410.0,55100.0,5.0,I Could Never Be Your Woman
+2349,410.0,7453.0,5.0,New York Minute
+2350,410.0,109483.0,5.0,That Awkward Moment
+2351,114.0,7700.0,5.0,The Wages of Fear
+2352,114.0,6862.0,5.0,Out of Time
+2353,114.0,118105.0,5.0,Trailer Park Boys: Live at the North Pole
+2354,114.0,2330.0,5.0,Hands on a Hard Body: The Documentary
+2355,517.0,57038.0,5.0,Lavoura Arcaica
+2356,517.0,107314.0,5.0,Oldboy
+2357,517.0,72386.0,5.0,Broken Embraces
+2358,517.0,104590.0,5.0,Tidal Wave
+2359,250.0,4593.0,5.0,Family Business
+2360,250.0,167.0,5.0,Feast of July
+2361,250.0,4796.0,5.0,The Grass Is Greener
+2362,250.0,1163.0,5.0,Mina Tannenbaum
+2363,548.0,101947.0,5.0,U2: From the Sky Down
+2364,548.0,3474.0,5.0,Retroactive
+2365,548.0,3780.0,5.0,Rocketship X-M
+2366,548.0,3829.0,5.0,Mad About Mambo
+2367,158.0,136445.0,4.5,George Carlin: Back in Town
+2368,158.0,118890.0,4.5,Bill Hicks: Relentless
+2369,158.0,136447.0,4.5,George Carlin: You Are All Diseased
+2370,158.0,129514.0,4.5,George Carlin: It's Bad for Ya!
+2371,568.0,7938.0,5.0,Winter Light
+2372,568.0,78836.0,5.0,Enter the Void
+2373,568.0,4470.0,5.0,Ariel
+2374,568.0,136016.0,5.0,The Good Dinosaur
+2375,154.0,51380.0,5.0,The Canterbury Tales
+2376,154.0,8544.0,5.0,"Now You See Him, Now You Don't"
+2377,154.0,47728.0,5.0,Green for Danger
+2378,154.0,2874.0,5.0,The Pajama Game
+2379,1.0,80.0,4.0,The White Balloon
+2380,1.0,96815.0,4.0,V/H/S
+2381,1.0,91488.0,4.0,The Snowman
+2382,1.0,92206.0,4.0,Hostel: Part III
+2383,291.0,781.0,5.000000000000001,Stealing Beauty
+2384,291.0,47148.0,5.0,Mrs Palfrey at The Claremont
+2385,291.0,7051.0,5.0,What's New Pussycat?
+2386,291.0,78903.0,5.0,State of Siege
+2387,203.0,26701.0,5.0,Patlabor: The Movie
+2388,203.0,74727.0,5.0,Gentlemen of Fortune
+2389,203.0,8884.0,5.0,The Man with One Red Shoe
+2390,203.0,104590.0,5.0,Tidal Wave
+2391,264.0,60990.0,5.0,The End of Summer
+2392,264.0,7919.0,5.0,Drunken Angel
+2393,264.0,4768.0,5.0,"Dr. Mabuse, the Gambler"
+2394,264.0,47148.0,5.0,Mrs Palfrey at The Claremont
+2395,334.0,2062.0,5.000000000000001,The Governess
+2396,334.0,5834.0,5.0,Fingers
+2397,334.0,1750.0,5.0,Star Kid
+2398,334.0,201.0,5.0,Three Wishes
+2399,116.0,50011.0,5.0,The Bothersome Man
+2400,116.0,109359.0,5.0,Gerontophilia
+2401,116.0,44731.0,5.0,Stay Alive
+2402,116.0,108795.0,5.0,Wonder Woman
+2403,39.0,78321.0,5.0,The 41–Year–Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It
+2404,39.0,44301.0,5.0,Lights in the Dusk
+2405,39.0,4026.0,5.0,Nowhere to Hide
+2406,39.0,4076.0,5.0,Two Ninas
+2407,284.0,4048.0,5.0,Imaginary Crimes
+2408,284.0,8629.0,5.0,The Book of Life
+2409,284.0,32460.0,5.0,Knockin' on Heaven's Door
+2410,284.0,4501.0,5.0,"Elvira, Mistress of the Dark"
+2411,6.0,81831.0,5.0,The First Beautiful Thing
+2412,6.0,102753.0,5.0,The Past
+2413,6.0,6012.0,5.0,A Guy Thing
+2414,6.0,6006.0,5.0,Just Married
+2415,280.0,59333.0,5.000000000000001,Made of Honor
+2416,280.0,74727.0,5.000000000000001,Gentlemen of Fortune
+2417,280.0,33296.0,5.0,Buying the Cow
+2418,280.0,36931.0,5.0,New Police Story
+2419,631.0,85342.0,5.000000000000001,Elite Squad: The Enemy Within
+2420,631.0,3568.0,5.0,Smiling Fish & Goat On Fire
+2421,631.0,30846.0,5.0,The Assassination of Richard Nixon
+2422,631.0,5153.0,5.0,Trouble Every Day
+2423,331.0,80748.0,5.0,Bread and Tulips
+2424,331.0,107559.0,5.0,Death of a Superhero
+2425,331.0,117444.0,5.0,Song of the Sea
+2426,331.0,3890.0,5.0,Backstage
+2427,259.0,26150.0,5.0,Andrei Rublev
+2428,259.0,69495.0,5.0,Breakfast with Scot
+2429,259.0,7564.0,5.0,Kwaidan
+2430,259.0,7349.0,5.0,Broken Wings
+2431,669.0,100843.0,5.0,A Coffee in Berlin
+2432,669.0,99030.0,5.0,Wrong
+2433,669.0,40491.0,5.0,The Match Factory Girl
+2434,669.0,68967.0,5.0,Summer Hours
+2435,274.0,854.0,5.0,The Ballad of Narayama
+2436,274.0,690.0,5.0,The Promise
+2437,274.0,2197.0,5.0,Firelight
+2438,274.0,1733.0,5.0,Afterglow
+2439,636.0,61236.0,5.0,Waltz with Bashir
+2441,636.0,3879.0,5.0,The Art of War
+2442,636.0,3885.0,5.0,Love & Sex
+2443,438.0,81054.0,5.0,Love Is Colder Than Death
+2444,438.0,7826.0,5.0,The Secret Life of Walter Mitty
+2445,438.0,7764.0,5.0,The Driller Killer
+2446,438.0,7697.0,5.0,The Prince and the Showgirl
+2447,147.0,4735.0,5.000000000000001,Ghosts of Mars
+2448,147.0,27728.0,5.000000000000001,Ghost in the Shell 2: Innocence
+2449,147.0,84395.0,5.0,The Rite
+2450,147.0,109249.0,5.0,The Journey
+2451,314.0,1044.0,5.0,Surviving Picasso
+2452,314.0,4957.0,5.0,Sudden Impact
+2453,314.0,2239.0,5.0,Swept Away
+2454,314.0,6219.0,5.0,The Hunted
+2455,443.0,26599.0,5.0,Law of Desire
+2456,443.0,62764.0,5.0,Black Moon
+2457,443.0,67957.0,5.0,Superstar: The Karen Carpenter Story
+2458,443.0,1636.0,5.0,Stag
+2459,428.0,7312.0,5.0,"Follow Me, Boys!"
+2460,428.0,4753.0,5.0,Vamp
+2461,428.0,2653.0,5.0,Son of Dracula
+2462,428.0,2650.0,5.0,The Ghost of Frankenstein
+2463,45.0,6598.0,5.0,Step Into Liquid
+2464,45.0,5428.0,5.0,Cheech & Chong's The Corsican Brothers
+2465,45.0,25763.0,5.0,Pandora's Box
+2466,45.0,8730.0,5.0,To End All Wars
+2467,507.0,4768.0,5.000000000000001,"Dr. Mabuse, the Gambler"
+2468,507.0,162672.0,5.0,Mohenjo Daro
+2469,507.0,3768.0,5.0,Braddock: Missing in Action III
+2470,507.0,4957.0,5.0,Sudden Impact
+2471,289.0,113453.0,5.000000000000001,Let's Be Cops
+2472,289.0,108156.0,5.0,Ride Along
+2473,289.0,42677.0,5.0,The Cutting Edge: The Magic of Movie Editing
+2474,289.0,3560.0,5.0,Empire of Passion
+2475,503.0,2325.0,4.125,Orgazmo
+2476,503.0,191.0,4.0,The Scarlet Letter
+2477,503.0,32735.0,4.0,Arabian Nights
+2478,503.0,26164.0,4.0,Fando and Lis
+2479,338.0,4559.0,5.0,Vice Versa
+2480,338.0,1328.0,5.0,The Amityville Curse
+2481,338.0,439.0,5.0,Dangerous Game
+2482,338.0,2983.0,5.0,The Ipcress File
+2483,300.0,3474.0,5.0,Retroactive
+2484,300.0,3780.0,5.0,Rocketship X-M
+2485,300.0,3885.0,5.0,Love & Sex
+2486,300.0,3879.0,5.0,The Art of War
+2487,216.0,72612.0,5.0,The Fly
+2488,216.0,58107.0,5.0,Step Up 2: The Streets
+2489,216.0,3765.0,5.0,The Hot Spot
+2490,216.0,91548.0,5.0,Life in a Day
+2491,127.0,251.0,4.75,The Hunted
+2492,127.0,191.0,4.75,The Scarlet Letter
+2493,127.0,53138.0,4.5,The Librarian: Return to King Solomon's Mines
+2494,127.0,103731.0,4.5,An Angel Named Billy
+2495,375.0,50804.0,5.0,Hannibal Rising
+2496,375.0,4593.0,5.0,Family Business
+2497,375.0,2573.0,5.0,Tango
+2498,375.0,8915.0,5.0,Stage Beauty
+2499,498.0,77414.0,5.0,The Last Song
+2500,498.0,7820.0,5.0,The Virgin Spring
+2501,498.0,7878.0,5.0,Straight to Hell
+2502,498.0,7889.0,5.0,Pat Garrett & Billy the Kid
+2503,206.0,7379.0,5.0,The Alamo
+2504,206.0,54780.0,5.0,The Nanny Diaries
+2505,206.0,109249.0,5.0,The Journey
+2506,206.0,1756.0,5.0,The Prophecy II
+2507,364.0,4001.0,5.0,Code of Silence
+2508,364.0,1756.0,5.0,The Prophecy II
+2509,364.0,2849.0,5.0,Queens Logic
+2510,364.0,2758.0,5.0,Plenty
+2511,129.0,80.0,4.0,The White Balloon
+2512,129.0,59392.0,4.0,Stargate: The Ark of Truth
+2513,129.0,60674.0,4.0,Stargate: Continuum
+2514,129.0,64695.0,4.0,Sword of the Stranger
+2515,526.0,4584.0,5.0,Dream a Little Dream
+2516,526.0,26151.0,5.0,Au Hasard Balthazar
+2517,526.0,4143.0,5.0,Valentine
+2518,526.0,5613.0,5.0,8 Women
+2519,640.0,3055.0,5.000000000000001,Felicia's Journey
+2520,640.0,74727.0,5.000000000000001,Gentlemen of Fortune
+2521,640.0,51380.0,5.0,The Canterbury Tales
+2522,640.0,4796.0,5.0,The Grass Is Greener
+2523,374.0,33838.0,5.0,Rize
+2524,374.0,59731.0,5.0,Bigger Stronger Faster*
+2525,374.0,6329.0,5.0,Manic
+2526,374.0,115174.0,5.0,Love Is Strange
+2527,449.0,5325.0,5.000000000000001,Dogtown and Z-Boys
+2528,449.0,101962.0,5.0,Wolf Children
+2529,449.0,5352.0,5.0,The Big Sleep
+2530,449.0,100106.0,5.0,The Pervert's Guide to Ideology
+2531,226.0,104590.0,4.5,Tidal Wave
+2532,226.0,84304.0,4.5,What Women Want
+2533,226.0,5888.0,4.5,Brother
+2534,226.0,121618.0,4.5,Silent Souls
+2535,565.0,26160.0,5.0,Asterix the Gaul
+2536,565.0,106873.0,5.0,Evangelion: 3.0 You Can (Not) Redo
+2537,565.0,5834.0,5.0,Fingers
+2538,565.0,32025.0,5.0,Walk on Water
+2539,515.0,8589.0,5.0,The Winter War
+2540,515.0,401.0,5.0,Mirage
+2541,515.0,101962.0,5.0,Wolf Children
+2542,515.0,3214.0,5.0,American Flyers
+2543,506.0,2537.0,5.0,Beyond the Poseidon Adventure
+2544,506.0,64501.0,4.004451102659628,Che: Part Two
+2545,506.0,69134.0,4.002799906809902,Antichrist
+2546,506.0,64499.0,4.0,Che: Part One
+2547,437.0,86721.0,5.0,Idiots and Angels
+2548,437.0,110352.0,5.0,Survival Island
+2549,437.0,2849.0,5.0,Queens Logic
+2550,437.0,2869.0,5.0,La séparation
+2551,179.0,1046.0,5.000000000000001,Beautiful Thing
+2552,179.0,1312.0,5.0,Female Perversions
+2553,179.0,3879.0,5.0,The Art of War
+2554,179.0,1497.0,5.0,Double Team
+2555,446.0,7234.0,5.000000000000001,La Strada
+2556,446.0,217.0,5.000000000000001,The Babysitter
+2557,446.0,1929.0,5.000000000000001,Grand Hotel
+2558,446.0,5655.0,5.000000000000001,The Fan
+2559,657.0,27768.0,5.0,Intimate Strangers
+2560,657.0,3003.0,5.0,Train of Life
+2561,657.0,80241.0,5.0,Going the Distance
+2562,657.0,105593.0,5.0,Filth
+2563,29.0,4278.0,5.000000000000001,Triumph of the Will
+2565,29.0,2962.0,5.000000000000001,Fever Pitch
+2566,29.0,53.0,5.0,Lamerica
+2567,167.0,109483.0,5.0,That Awkward Moment
+2568,167.0,64695.0,5.0,Sword of the Stranger
+2569,167.0,91628.0,5.0,New Year's Eve
+2570,167.0,81831.0,5.0,The First Beautiful Thing
+2571,301.0,6415.0,5.0,Intervista
+2572,301.0,6404.0,5.0,American Outlaws
+2574,301.0,2573.0,5.0,Tango
+2575,637.0,60333.0,5.000000000000001,Encounters at the End of the World
+2576,637.0,3158.0,5.000000000000001,The Emperor and the Assassin
+2577,637.0,86504.0,5.000000000000001,Voices from the List
+2578,637.0,92535.0,5.000000000000001,Louis C.K.: Live at the Beacon Theater
+2579,508.0,78729.0,5.0,24: Redemption
+2580,508.0,71131.0,5.0,Louis Theroux: The Most Hated Family in America
+2581,508.0,845.0,5.0,The Day the Sun Turned Cold
+2582,508.0,37475.0,5.0,An Unfinished Life
+2583,513.0,49299.0,5.0,Luna de Avellaneda
+2584,513.0,8899.0,5.0,Hardcore
+2585,513.0,74624.0,5.0,Agora
+2586,513.0,7379.0,5.0,The Alamo
+2587,413.0,5850.0,5.0,Roadgames
+2588,413.0,32844.0,5.0,Waterloo Bridge
+2589,413.0,2526.0,5.0,Meteor
+2590,413.0,60137.0,5.0,The Rape of Europa
+2591,347.0,61236.0,5.0,Waltz with Bashir
+2592,347.0,27186.0,5.0,Kirikou and the Sorceress
+2593,347.0,8915.0,4.75,Stage Beauty
+2594,347.0,5677.0,4.75,Abandon
+2595,581.0,57353.0,4.5,Flawless
+2596,581.0,563.0,4.5,Germinal
+2597,581.0,1575.0,4.5,Gabbeh
+2598,581.0,54328.0,4.5,My Best Friend
+2599,37.0,47148.0,5.0,Mrs Palfrey at The Claremont
+2600,37.0,336.0,5.0,The Walking Dead
+2601,37.0,85612.0,5.0,Eden
+2602,37.0,4562.0,5.0,Without a Clue
+2603,448.0,4445.0,5.0,T-Rex: Back to the Cretaceous
+2604,448.0,27768.0,5.0,Intimate Strangers
+2605,448.0,27664.0,5.0,The Brown Bunny
+2606,448.0,58554.0,5.0,The Class
+2607,55.0,162672.0,5.0,Mohenjo Daro
+2608,55.0,4300.0,5.0,Bread and Roses
+2609,55.0,48501.0,5.0,G.O.R.A.
+2610,55.0,55250.0,5.0,The Game Plan
+2611,336.0,27728.0,5.000000000000001,Ghost in the Shell 2: Innocence
+2612,336.0,74727.0,5.000000000000001,Gentlemen of Fortune
+2613,336.0,294.0,5.000000000000001,The Perez Family
+2614,336.0,50798.0,5.0,Epic Movie
+2615,474.0,4076.0,5.0,Two Ninas
+2616,474.0,3303.0,5.0,Black Tar Heroin: The Dark End of the Street
+2617,474.0,74115.0,5.0,Dante's Hell Animated
+2618,474.0,74156.0,5.0,Edge of Darkness
+2619,337.0,50954.0,5.0,It's a Boy Girl Thing
+2620,337.0,26842.0,5.0,Tai-Chi Master
+2621,337.0,33296.0,5.0,Buying the Cow
+2622,337.0,33145.0,5.0,A Lot Like Love
+2623,368.0,56079.0,5.0,Smiley Face
+2624,368.0,26732.0,5.0,Johnny Stecchino
+2625,368.0,92954.0,5.0,Prayers for Bobby
+2626,368.0,92424.0,5.0,Dottie Gets Spanked
+2627,323.0,8915.0,5.0,Stage Beauty
+2628,323.0,747.0,5.0,The Stupids
+2629,323.0,2562.0,5.0,Bandits
+2630,323.0,27255.0,5.0,The Wind Will Carry Us
+2631,112.0,64034.0,5.000000000000001,The Boy in the Striped Pyjamas
+2632,112.0,51086.0,5.000000000000001,The Number 23
+2633,112.0,128512.0,5.000000000000001,Paper Towns
+2634,112.0,93422.0,5.000000000000001,Starbuck
+2635,638.0,160590.0,4.5,Survive and Advance
+2636,638.0,8167.0,4.5,Captain Blood
+2637,638.0,26094.0,4.5,L'eclisse
+2638,638.0,8982.0,4.5,I Am David
+2639,76.0,43556.0,5.0,Annapolis
+2640,76.0,42007.0,5.0,Rumor Has It...
+2641,76.0,582.0,5.0,Café au Lait
+2642,76.0,563.0,5.0,Germinal
